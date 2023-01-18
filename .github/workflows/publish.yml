@@ -17,8 +17,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: mkdocs.yml
-          EXTRA_PACKAGES:
-            - mkdocs-awesome-pages-plugin
-            - mkdocs-git-revision-date-localized-plugin
-            - mike mkdocs-markdownextradata-plugin
-            - mkdocs-git-authors-plugin
+          EXTRA_PACKAGES: mkdocs-awesome-pages-plugin mkdocs-git-revision-date-localized-plugin mike mkdocs-markdownextradata-plugin mkdocs-git-authors-plugin
