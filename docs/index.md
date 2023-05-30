@@ -1,4 +1,4 @@
-# Welcome
+<h1>Welcome</h1>
 This is a documentation-only repository - it describes how to run HCL Domino on the various Linux distributions.
 
 <details close markdown="block">
