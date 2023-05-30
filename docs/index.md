@@ -1,1 +1,75 @@
-# Index
+# Welcome
+This is a documentation-only repository - it describes how to run HCL Domino on the various Linux distributions.
+
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+## Background
+The system requirements for HCL Domino include RHEL/CentOS and SUSE because those are the releases that HCL has tested (aka "certified") to run on. However, HCL Domino will run on other distributions if a certain minimum criteria is met. This repository is documenting which flavours of Linux is running on and what customers have to be aware of.
+
+## Compatibility
+Overview of which Linux distribution is compatible with which Domino release.
+
+
+Domino Version | min.glibc Version | min stdc++ Version
+------| :---: | :---:
+HCL Domino 14.0.x | ? | ?
+HCL Domino 12.0.x | ? | ?
+HCL Domino 11.0.x | ? | ?
+HCL Domino 10.0.x | ? | ?
+HCL Domino 9.0.x | ? | ?
+
+
+Distribution | Domino 14 | Domino 12 | Domino 11 
+:-------|---|---|---
+[SUSE Leap](leap.md) | {: .bg-red-300 } | {: .bg-green-000 } | {: .bg-green-000 }
+[Redhat Enterprise Linux 9 (RHEL)](rhel.md) | {: .bg-green-000 } | {: .bg-green-000 } | {: .bg-green-000 }
+[Redhat Enterprise Linux 8 (RHEL)](rhel.md) | {: .bg-red-300 } | {: .bg-green-000 } | {: .bg-green-000 }
+[CentOS Stream 9](centos.md)| {: .bg-green-000 } | {: .bg-green-000 } | {: .bg-green-000 }
+[CentOS Stream 8](centos.md)| {: .bg-red-300 } | {: .bg-green-000 } | {: .bg-green-000 }
+[CentOS Stream 7](centos.md)| {: .bg-red-300 } | {: .bg-yellow-000 } | {: .bg-green-000 }
+[Rocky Linux 9](rockylinux.md) | ? | ? | ? 
+[Amazon Linux 2023](amazonlinux.md)| ? | ? | ? 
+[VMware Photon OS 5.0](photon.md)| ? | ? | ? 
+[Ubuntu LTS 24.04 (Jammy Jellyfish)](ubuntu.md)| ? | ? | ? 
+[Debian 11 (bullseye)](debian.md)| ? | ? | ? 
+
+## Contains
+
+Distribution| glibc Version | Package Manager | FileSystem
+---|----|---|---
+[SUSE Linux Enterprise Server (SLES)](https://www.suse.com/products/server/) | 2.31 | zypper | brtfs/ZFS
+[SUSE Leap](leap.md) | 2.31 | zypper | brtfs/ZFS
+[Redhat Enterprise Linux 9 (RHEL)](rhel.md)| 2.34 | yum 
+[CentOS Stream 9](centos.md)| 2.34 | yum | 
+[Rocky Linux 9](rockylinux.md)|2.34 | yum | https://rockylinux.org/
+[Alma Linux 9](amalinux.md)|2.34|yum | https://almalinux.org
+[Amazon Linux 2023](amazonlinux.md)|2.34 | yum | (fedora) https://aws.amazon.com/amazon-linux-2/
+[Oracle Linux 9](oraclelinux.md)| 2.34 | yum | (fedora) https://www.oracle.com/linux/
+[VMware Photon OS 5.0](photon.md)| 2.36 | yum | https://vmware.github.io/photon/
+[Ubuntu LTS 24.04 (Jammy Jellyfish)](ubuntu.md) | 2.35 | apt | https://ubuntu.com/
+[Debian 11 (bullseye)](debian.md)| 2.31 | apt 
+
+## Resources
+
+* [Domino Start Script](https://nashcom.github.io/domino-startscript/)
+* [Domino on touch installer and installation step by step for CentOS Stream](https://nashcom.github.io/domino-startscript/install_domino/)
+
+
+## Articles
+
+* [Picking the right Linux Distribution](https://blog.nashcom.de/nashcomblog.nsf/dx/picking-the-right-linux-distribution.htm)
+* [Taking a closer look at Linux distributions for NGINX, Curl and OpenSSL for Domino](https://blog.nashcom.de/nashcomblog.nsf/dx/taking-a-closer-look-at-linux-distributions-for-nginx-curl-and-openssl-for-domino-.htm)
+* [ARM CPU platform -- Where can it be relevant today for you?](https://blog.nashcom.de/nashcomblog.nsf/dx/arm-cpu-platform-where-can-it-be-relevant-today-for-you.htm)
+
+
+## Interesting links along the way
+
+https://microk8s.io/
+

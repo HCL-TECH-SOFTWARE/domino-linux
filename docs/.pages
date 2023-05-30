@@ -1,0 +1,10 @@
+site_name: HCL Domino on Linux
+site_url: https://opensource.hcltechsw.com/domino-linux/
+nav:
+    - Home:
+        - 'RedHat': 'rhel.md'
+        - 'SUSE' : 'suse.md'
+    - File Systems: 'filesystems.md'
+    - About:
+        - 'License': 'license.md'
+        - 'Release Notes': 'release-notes.md'
