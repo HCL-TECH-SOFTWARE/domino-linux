@@ -16,6 +16,8 @@ The system requirements for HCL Domino include RHEL/CentOS and SUSE because thos
 ## Compatibility
 Overview of which Linux distribution is compatible with which Domino release.
 
+### Dependencies
+Overview of HCL Domino dependencies
 
 Domino Version | min.glibc Version | min stdc++ Version
 ------| :---: | :---:
@@ -25,6 +27,9 @@ HCL Domino 11.0.x | ? | ?
 HCL Domino 10.0.x | ? | ?
 HCL Domino 9.0.x | ? | ?
 
+
+### Domino Compatibility
+Which distribution will run what Domino version
 
 Distribution | Domino 14 | Domino 12 | Domino 11 
 :-------|---|---|---
@@ -40,7 +45,7 @@ Distribution | Domino 14 | Domino 12 | Domino 11
 [Ubuntu LTS 24.04 (Jammy Jellyfish)](ubuntu.md)| ? | ? | ? 
 [Debian 11 (bullseye)](debian.md)| ? | ? | ? 
 
-## Contains
+## Details
 
 Distribution| glibc Version | Package Manager | FileSystem
 ---|----|---|---
