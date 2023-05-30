@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Home"
+nav_order: 1
+description: "HCL Domino Linux"
+has_children: true
+---
+
 <h1>Welcome</h1>
 This is a documentation-only repository - it describes how to run HCL Domino on the various Linux distributions.
 

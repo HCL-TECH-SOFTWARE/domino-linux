@@ -1,3 +1,10 @@
+---
+layout: default
+title: "File Systems"
+nav_order: 2
+description: "Linux File Systems"
+has_children: false
+---
 <h1>File Systems</h1>
 What you need to know about Linux file systems when being used with HCL Domino
 

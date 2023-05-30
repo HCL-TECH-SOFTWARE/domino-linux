@@ -1,3 +1,12 @@
+---
+layout: default
+title: "SUSE Linux Enterprise Server"
+parent: "Home"
+nav_order: 6
+description: "SUSE Linux Enterprise Server"
+has_children: false
+---
+
 <h1>SUSE Linux Enterprise Server (SLES)</h1>
 
 <details close markdown="block">

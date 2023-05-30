@@ -1,3 +1,12 @@
+---
+layout: default
+title: "Rocky Linux"
+parent: "Home"
+nav_order: 6
+description: "Rocky Linux"
+has_children: false
+---
+
 <h1>Rocky Linux</h1>
 What you need to know about running HCL Domino on Rocky Linux
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: "RedHat Enterprise Server"
+parent: "Home"
+nav_order: 5
+description: "RedHat Enterprise Server"
+has_children: false
+---
 <h1>RedHat Enterprise Server</h1>
 
 <details close markdown="block">

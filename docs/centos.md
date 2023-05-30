@@ -1,3 +1,11 @@
+---
+layout: default
+title: "CentOS"
+parent: "Home"
+nav_order: 3
+description: "CentOS"
+has_children: false
+---
 <h1>CentOS</h1>
 https//www.centos.org/
 
