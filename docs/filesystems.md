@@ -1,20 +1,38 @@
-# File Systems
+<h1>File Systems</h1>
+What you need to know about Linux file systems when being used with HCL Domino
 
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+## Overview
 Considerations for filesystems go here:
 
-# XFS
+Filesystem | Description | Pros | Cons
+--- | --- | --- | ---
+XFS | tbd | tbd | tbd 
+ext4 | tbd | tbd | tbd 
+btrfs | tbd | tbd | tbd 
+ZFS | tbd | tbd | tbd 
+
+## XFS
 https://en.wikipedia.org/wiki/XFS
 
 
-# ext4
+## ext4
 https://en.wikipedia.org/wiki/Ext4
 
 
-# btrfs
+## btrfs
 https://btrfs.readthedocs.io
 Included in: SUSE
 
-# ZFS (OpenZFS)
+## ZFS (OpenZFS)
 https://openzfs.org/
 Included in: Ubuntu
 Optional repository on Debian/SUSE
