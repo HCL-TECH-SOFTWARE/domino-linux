@@ -82,7 +82,12 @@ Distribution| glibc Version | Package Manager | FileSystem
 * [ARM CPU platform -- Where can it be relevant today for you?](https://blog.nashcom.de/nashcomblog.nsf/dx/arm-cpu-platform-where-can-it-be-relevant-today-for-you.htm)
 
 
-## Interesting links along the way
+## Interesting links
 
 https://microk8s.io/
 
+## Wild and crazy 
+A collection of non-standard environments that run HCL Domino
+
+* [Pocket sized Domino server](https://blog.thomashampel.com/blog/tomcat2000.nsf/dx/domino-portable-edition-building-the-smallest-domino-server-hot-pants-for-geeks.htm)
+* [QNAP Network Attached Storage](https://opensource.hcltechsw.com/domino-container/howto_qnap/)
