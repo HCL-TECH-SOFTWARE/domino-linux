@@ -27,8 +27,8 @@ Overview of which Linux distribution is compatible with which Domino release.
 ### Dependencies
 Overview of HCL Domino dependencies
 
-Domino Version | min.glibc Version | min stdc++ Version
-------| :---: | :---:
+Domino Version | Kernel Version | min.glibc Version | min stdc++ Version
+------| :---: | :---: | :---:
 HCL Domino 14.0.x | ? | ?
 HCL Domino 12.0.x | ? | ?
 HCL Domino 11.0.x | ? | ?
@@ -41,7 +41,7 @@ Which distribution will run what Domino version
 
 Distribution | Domino 14 | Domino 12 | Domino 11 
 :-------|---|---|---
-[SUSE Leap](leap.md) | Incompatible {: .bg-red-300 } | Works {: .bg-green-000 } | Works {: .bg-green-000 }
+[SUSE Leap](leap.md) | Incompatible {: .label .label-red } {: .bg-red-300 } | Works {: .bg-green-000 } | Works {: .bg-green-000 }
 [Redhat Enterprise Linux 9 (RHEL)](rhel.md) | {: .bg-green-000 } | {: .bg-green-000 } | {: .bg-green-000 }
 [Redhat Enterprise Linux 8 (RHEL)](rhel.md) | {: .bg-red-300 } | {: .bg-green-000 } | {: .bg-green-000 }
 [CentOS Stream 9](centos.md)| {: .bg-green-000 } | {: .bg-green-000 } | {: .bg-green-000 }
