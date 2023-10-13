@@ -53,7 +53,23 @@ Distribution | Domino 14 | Domino 12 | Domino 11
 [Ubuntu LTS 24.04 (Jammy Jellyfish)](ubuntu.md)| ? | ? | ? 
 [Debian 11 (bullseye)](debian.md)| ? | ? | ? 
 
+
 <table>
+  <caption>Compatibility Definition</caption>
+  <tbody>
+    <tr>
+      <td title="Requires testing and may not be fully usuable">Untested</td>
+      <td title="Has been tested and will not work">No</td>
+      <td title="Will work with some tuning">Limited</td>
+      <td title="Works just fine">Yes</td>
+      <td title="HCL officially supports this platform">Certified</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
+  <caption>Domino on Linux Compatibility Matrix</caption>
   <tbody>
     <tr>
       <th>Distribution</th>
@@ -62,38 +78,38 @@ Distribution | Domino 14 | Domino 12 | Domino 11
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td>[SUSE Leap](leap.md)</td>
+      <td><a href="leap.md">SUSE Leap</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td>[Redhat Enterprise Linux 9 (RHEL)](rhel.md)</td>
+      <td><a href="rhel.md">Redhat Enterprise Linux 9 (RHEL)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td>[Redhat Enterprise Linux 8 (RHEL)](rhel.md)</td>
+      <td><a href="rhel.md">Redhat Enterprise Linux 9 (RHEL)</a></td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td>[CentOS Stream 9](centos.md)</td>
+      <td><a href="centos.md">CentOS Stream 9</a></td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td>[CentOS Stream 8](centos.md)</td>
+      <td><a href="centos.md">CentOS Stream 8</a></td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td>[CentOS 7](centos.md)</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td><a href="centos.md">CentOS 7</a></td>
+      <td style="background:#FFC7C7;vertical-align:middle;text-align:center;" >No</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
     </tr>
@@ -113,7 +129,7 @@ Distribution| glibc Version | Package Manager | FileSystem
 [Rocky Linux 9](rockylinux.md)|2.34 | yum | https://rockylinux.org/
 [Alma Linux 9](amalinux.md)|2.34|yum | https://almalinux.org
 [Amazon Linux 2023](amazonlinux.md)|2.34 | yum | (fedora) https://aws.amazon.com/amazon-linux-2/
-[Oracle Linux 9](oraclelinux.md)| 2.34 | yum | (fedora) https://www.oracle.com/linux/
+[Oracle Linux 9](oraclelinux.md)| 2.34 | yum | [Oracle Linux](https://www.oracle.com/linux/) (fedora) 
 [VMware Photon OS 5.0](photon.md)| 2.36 | yum | https://vmware.github.io/photon/
 [Ubuntu LTS 24.04 (Jammy Jellyfish)](ubuntu.md) | 2.35 | apt | https://ubuntu.com/
 [Debian 11 (bullseye)](debian.md)| 2.31 | apt 
