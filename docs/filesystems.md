@@ -22,10 +22,10 @@ Considerations for filesystems go here:
 
 Filesystem | Description | Pros | Cons
 --- | --- | --- | ---
-XFS | tbd | tbd | tbd 
-ext4 | tbd | tbd | tbd 
-btrfs | tbd | tbd | tbd 
-ZFS | tbd | tbd | tbd 
+[XFS](#XFS) | tbd | tbd | tbd 
+[ext4](#ext4) | tbd | tbd | tbd 
+[btrfs](#btrfs) | tbd | tbd | tbd 
+[ZFS](#ZFS) | tbd | tbd | tbd 
 
 ## XFS
 https://en.wikipedia.org/wiki/XFS
@@ -39,10 +39,10 @@ https://en.wikipedia.org/wiki/Ext4
 https://btrfs.readthedocs.io
 Included in: SUSE
 
-## ZFS (OpenZFS)
+## ZFS
+also OpenZFS
 https://openzfs.org/
 Included in: Ubuntu
 Optional repository on Debian/SUSE
 
 https://ubuntu.com/tutorials/setup-zfs-storage-pool
-
