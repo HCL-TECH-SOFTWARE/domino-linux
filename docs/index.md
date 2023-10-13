@@ -37,33 +37,17 @@ HCL Domino 9.0.x | ? | ? | ?
 HCL Domino 8.5.x | ? | ? | ?
 
 ### Domino Compatibility
-This table provides the collective knowledge of which distribution are known to be working with a Domino version
-
-Distribution | Domino 14 | Domino 12 | Domino 11 
-:-------|---|---|---
-[SUSE Leap](leap.md) | Incompatible <br /> {: .label .label-red } {: .bg-red-300 } | Works <br /> {: .bg-green-000 } | Works {: .bg-green-000 }
-[Redhat Enterprise Linux 9 (RHEL)](rhel.md) | {: .bg-green-000 } | {: .bg-green-000 } | {: .bg-green-000 }
-[Redhat Enterprise Linux 8 (RHEL)](rhel.md) | {: .bg-red-300 } | {: .bg-green-000 } | {: .bg-green-000 }
-[CentOS Stream 9](centos.md)| {: .bg-green-000 } | {: .bg-green-000 } | {: .bg-green-000 }
-[CentOS Stream 8](centos.md)| {: .bg-red-300 } | {: .bg-green-000 } | {: .bg-green-000 }
-[CentOS Stream 7](centos.md)| {: .bg-red-300 } | {: .bg-yellow-000 } | {: .bg-green-000 }
-[Rocky Linux 9](rockylinux.md) | ? | ? | ? 
-[Amazon Linux 2023](amazonlinux.md)| ? | ? | ? 
-[VMware Photon OS 5.0](photon.md)| ? | ? | ? 
-[Ubuntu LTS 24.04 (Jammy Jellyfish)](ubuntu.md)| ? | ? | ? 
-[Debian 11 (bullseye)](debian.md)| ? | ? | ? 
-
-
+This table provides the collective knowledge of which distribution are known to be working with a Domino version.
 
 <table>
   <caption>Compatibility Definition</caption>
   <tbody>
     <tr>
-      <td style="background:#C0C0C0" title="Requires testing and may not be fully usuable">Untested</td>
+      <td style="background:#C0C0C0" title="Requires testing and may not be fully usuable">Unknown</td>
       <td style="background:#FFC7C7" title="Has been tested and will not work">No</td>
       <td style="background:#FFD147" title="Will work with some tuning">Limited</td>
       <td style="background:#9EFF9E" title="Works just fine">Yes</td>
-      <td style="background:#009C7B" title="HCL officially supports this platform">Certified</td>
+      <td style="background:#009C7B" title="HCL has tested and supports this platform">Certified</td>
     </tr>
   </tbody>
 </table>
@@ -73,7 +57,7 @@ Distribution | Domino 14 | Domino 12 | Domino 11
   <caption>Domino on Linux Compatibility Matrix</caption>
   <tbody>
     <tr>
-      <th>Distribution</th>
+      <th>Linux Distribution</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
@@ -91,28 +75,58 @@ Distribution | Domino 14 | Domino 12 | Domino 11
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="rhel.md">Redhat Enterprise Linux 9 (RHEL)</a></td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td><a href="rhel.md">Redhat Enterprise Linux 8 (RHEL)</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="centos.md">CentOS Stream 9</a></td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="centos.md">CentOS Stream 8</a></td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="centos.md">CentOS 7</a></td>
-      <td style="background:#FFC7C7;vertical-align:middle;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="rockylinux.md">Rocky Linux 9</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="amazonlinux.md">Amazon Linux 2023</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="photon.md">VMware Photon OS 5.0</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="ubuntu.md">Ubuntu LTS 24.04 (Jammy Jellyfish)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="debian.md">Debian 11 (bullseye)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
   </tbody>
 </table>
@@ -121,7 +135,7 @@ Distribution | Domino 14 | Domino 12 | Domino 11
 
 ## Details
 
-Distribution| glibc Version | Package Manager | FileSystem
+Linux Distribution| glibc Version | Package Manager | FileSystem
 ---|----|---|---
 [SUSE Linux Enterprise Server (SLES)](https://www.suse.com/products/server/) | 2.31 | zypper | brtfs/ZFS
 [SUSE Leap](leap.md) | 2.31 | zypper | brtfs/ZFS
