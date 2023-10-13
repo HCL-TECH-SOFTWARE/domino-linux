@@ -37,7 +37,7 @@ HCL Domino 9.0.x | ? | ? | ?
 HCL Domino 8.5.x | ? | ? | ?
 
 ### Domino Compatibility
-Which distribution will run what Domino version
+This table provides the collective knowledge of which distribution are known to be working with a Domino version
 
 Distribution | Domino 14 | Domino 12 | Domino 11 
 :-------|---|---|---
@@ -62,13 +62,44 @@ Distribution | Domino 14 | Domino 12 | Domino 11
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td>SUSE Leap</td>
-      <td style="background:#FFC7C7;vertical-align:middle;text-align:center;" >No</td>
+      <td>[SUSE Leap](leap.md)</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td>[Redhat Enterprise Linux 9 (RHEL)](rhel.md)</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td>[Redhat Enterprise Linux 8 (RHEL)](rhel.md)</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td>[CentOS Stream 9](centos.md)</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td>[CentOS Stream 8](centos.md)</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td>[CentOS 7](centos.md)</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## Details
