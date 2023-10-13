@@ -54,15 +54,16 @@ Distribution | Domino 14 | Domino 12 | Domino 11
 [Debian 11 (bullseye)](debian.md)| ? | ? | ? 
 
 
+
 <table>
   <caption>Compatibility Definition</caption>
   <tbody>
     <tr>
-      <td title="Requires testing and may not be fully usuable">Untested</td>
-      <td title="Has been tested and will not work">No</td>
-      <td title="Will work with some tuning">Limited</td>
-      <td title="Works just fine">Yes</td>
-      <td title="HCL officially supports this platform">Certified</td>
+      <td style="background:#C0C0C0" title="Requires testing and may not be fully usuable">Untested</td>
+      <td style="background:#FFC7C7" title="Has been tested and will not work">No</td>
+      <td style="background:#FFD147" title="Will work with some tuning">Limited</td>
+      <td style="background:#9EFF9E" title="Works just fine">Yes</td>
+      <td style="background:#009C7B" title="HCL officially supports this platform">Certified</td>
     </tr>
   </tbody>
 </table>
