@@ -27,21 +27,21 @@ Overview of which Linux distribution is compatible with which Domino release.
 ### Dependencies
 Overview of HCL Domino dependencies
 
-Domino Version | Kernel Version | min.glibc Version | min stdc++ Version
+Domino Version | Kernel Version | min.glibc Version | min stdc++ Version | Remarks
 ------| :---: | :---: | :---:
-HCL Domino 14.0.x | ? | ?
-HCL Domino 12.0.x | ? | ?
-HCL Domino 11.0.x | ? | ?
-HCL Domino 10.0.x | ? | ?
-HCL Domino 9.0.x | ? | ?
-
+HCL Domino 14.0.x | ? | ? | ?
+HCL Domino 12.0.x | ? | ? | ?
+HCL Domino 11.0.x | ? | ? | ?
+HCL Domino 10.0.x | ? | ? | ?
+HCL Domino 9.0.x | ? | ? | ?
+HCL Domino 8.5.x | ? | ? | ?
 
 ### Domino Compatibility
 Which distribution will run what Domino version
 
 Distribution | Domino 14 | Domino 12 | Domino 11 
 :-------|---|---|---
-[SUSE Leap](leap.md) | Incompatible {: .label .label-red } {: .bg-red-300 } | Works {: .bg-green-000 } | Works {: .bg-green-000 }
+[SUSE Leap](leap.md) | Incompatible <br /> {: .label .label-red } {: .bg-red-300 } | Works <br /> {: .bg-green-000 } | Works {: .bg-green-000 }
 [Redhat Enterprise Linux 9 (RHEL)](rhel.md) | {: .bg-green-000 } | {: .bg-green-000 } | {: .bg-green-000 }
 [Redhat Enterprise Linux 8 (RHEL)](rhel.md) | {: .bg-red-300 } | {: .bg-green-000 } | {: .bg-green-000 }
 [CentOS Stream 9](centos.md)| {: .bg-green-000 } | {: .bg-green-000 } | {: .bg-green-000 }
@@ -52,6 +52,24 @@ Distribution | Domino 14 | Domino 12 | Domino 11
 [VMware Photon OS 5.0](photon.md)| ? | ? | ? 
 [Ubuntu LTS 24.04 (Jammy Jellyfish)](ubuntu.md)| ? | ? | ? 
 [Debian 11 (bullseye)](debian.md)| ? | ? | ? 
+
+<table>
+  <tbody>
+    <tr>
+      <th>Distribution</th>
+      <th>Domino 14</th>
+      <th>Domino 12</th>
+      <th>Domino 11</th>
+    </tr>
+    <tr>
+      <td>SUSE Leap</td>
+      <td style="background:#FFC7C7;vertical-align:middle;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;vertical-align:middle;text-align:center;" >Yes</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Details
 
