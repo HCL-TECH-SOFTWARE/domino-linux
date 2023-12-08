@@ -20,6 +20,7 @@ has_children: false
 </details>
 
 ## Overview
+Property | Value 
 ---|---
 License         | 
 Package Manager | 
