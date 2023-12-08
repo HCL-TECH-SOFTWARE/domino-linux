@@ -29,9 +29,6 @@ nav_external_links:
   - title: Nash!Com Start Script
     url: https://nashcom.github.io/domino-startscript/
     hide_icon: false
-  - title: Docker / Container
-    url: https://opensource.hcltechsw.com/domino-container/
-    hide_icon: false
   - title: Report an issue
     url: https://github.com/HCL-TECH-SOFTWARE/domino-linux/issues
     hide_icon: false

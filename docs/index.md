@@ -24,18 +24,6 @@ The system requirements for HCL Domino include RHEL/CentOS and SUSE because thos
 ## Compatibility
 Overview of which Linux distribution is compatible with which Domino release.
 
-### Dependencies
-Overview of HCL Domino dependencies
-
-Domino Version | Kernel Version | min.glibc Version | min stdc++ Version | Remarks
-------| :---: | :---: | :---:
-HCL Domino 14.0.x | ? | ? | ?
-HCL Domino 12.0.x | ? | ? | ?
-HCL Domino 11.0.x | ? | ? | ?
-HCL Domino 10.0.x | ? | ? | ?
-HCL Domino 9.0.x | ? | ? | ?
-HCL Domino 8.5.x | ? | ? | ?
-
 ### Domino Compatibility
 This table provides the collective knowledge of which distribution are known to be working with a Domino version.
 
@@ -83,7 +71,7 @@ This table provides the collective knowledge of which distribution are known to 
 </table>
 
 <table>
-  <caption>Domino on Linux Compatibility Matrix</caption>
+  <caption>HCL Domino on Linux Compatibility Matrix</caption>
   <tbody>
     <tr>
       <th>Linux Distribution</th>
@@ -99,7 +87,7 @@ This table provides the collective knowledge of which distribution are known to 
     </tr>
     <tr>
       <td><a href="rhel">Redhat Enterprise Linux 9 (RHEL)</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
@@ -159,6 +147,18 @@ This table provides the collective knowledge of which distribution are known to 
     </tr>
   </tbody>
 </table>
+
+### Dependencies
+Overview of HCL Domino dependencies
+
+Domino Version | Kernel Version | min.glibc Version | min stdc++ Version | Remarks
+------| :---: | :---: | :---:
+HCL Domino 14.0.x | ? | ? | ?
+HCL Domino 12.0.x | ? | ? | ?
+HCL Domino 11.0.x | ? | ? | ?
+HCL Domino 10.0.x | ? | ? | ?
+HCL Domino 9.0.x | ? | ? | ?
+HCL Domino 8.5.x | ? | ? | ?
 
 ## Details
 
