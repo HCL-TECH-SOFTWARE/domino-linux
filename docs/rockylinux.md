@@ -22,6 +22,7 @@ What you need to know about running HCL Domino on Rocky Linux
 </details>
 
 ## Overview
+
 | --- | --- |
 | License         |    |
 | Package Manager | yum |

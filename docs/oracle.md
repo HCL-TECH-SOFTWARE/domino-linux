@@ -20,13 +20,13 @@ has_children: false
 </details>
 
 ## Overview
+
 | --- | --- |
 | License         | GNU General Public License   |
 | Package Manager | yum |
 | Filesystem      |    |
 | Based on        | [Red Hat](rhel.md)  |
 | Support         |   |
-
 
 ## Versions
 
