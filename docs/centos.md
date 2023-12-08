@@ -18,6 +18,12 @@ has_children: false
 {:toc}
 </details>
 
+## Overview
+--- | ---
+License | 
+Filesystem | 
+Based on | 
+
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 

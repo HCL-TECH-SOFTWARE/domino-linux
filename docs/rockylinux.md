@@ -21,12 +21,17 @@ What you need to know about running HCL Domino on Rocky Linux
 {:toc}
 </details>
 
+## Overview
+--- | ---
+License | 
+Filesystem | 
+Based on | 
+
 ## Versions
 Which versions of this Linux distribution exists in the market and what Domino version they are compatible with.
 
 
 ## Rocky Linux 9
-Based on :
 
 ## Compatibility
 Item | Compatibility

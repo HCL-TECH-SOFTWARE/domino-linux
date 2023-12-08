@@ -21,6 +21,7 @@ has_children: false
 
 ## Overview
 --- | ---
+License | 
 Filesystem | 
 Based on | 
 Wikipedia | https://en.wikipedia.org/wiki/SUSE_Linux

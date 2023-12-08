@@ -1,13 +1,14 @@
 ---
 layout: default
-title: "Amazon Linux"
+title: "Arch Linux"
 parent: "Home"
-nav_order: 3
-description: "Amazon Linux"
+nav_order: 6
+description: "Arch Linux"
 has_children: false
 ---
-<h1>Amazon Linux</h1>
-[https//www.centos.org/](https//www.centos.org/)
+
+<h1>Archlinux</h1>
+[https://archlinux.org/](https://archlinux.org/)
 
 <details close markdown="block">
   <summary>
@@ -26,8 +27,7 @@ Based on |
 
 ## Versions
 
-### Amazon Linux 2023
+### ArchLinux 
 
 
 ## References
-
