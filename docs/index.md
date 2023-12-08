@@ -138,19 +138,6 @@ This table provides the collective knowledge of which distribution are known to 
   <caption>Compatibility Definition</caption>
   <tbody>
     <tr>
-      <td style="background:#C0C0C0" title="Requires testing and may not be fully usuable">Unknown</td>
-      <td style="background:#FFC7C7" title="Has been tested and will not work">No</td>
-      <td style="background:#FFD147" title="Will work with some tuning">Limited</td>
-      <td style="background:#9EFF9E" title="Works just fine">Yes</td>
-      <td style="background:#009C7B" title="HCL has tested and supports this platform">Certified</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <caption>Compatibility Definition</caption>
-  <tbody>
-    <tr>
       <th>Color</th>
       <th>Explanation</th>
     </tr>
