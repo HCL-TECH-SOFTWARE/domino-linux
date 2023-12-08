@@ -28,6 +28,92 @@ Overview of which Linux distribution is compatible with which Domino release.
 This table provides the collective knowledge of which distribution are known to be working with a Domino version.
 
 <table>
+  <caption>HCL Domino on Linux Compatibility Matrix</caption>
+  <tbody>
+    <tr>
+      <th>Linux Distribution</th>
+      <th>Domino 14</th>
+      <th>Domino 12</th>
+      <th>Domino 11</th>
+    </tr>
+    <tr>
+      <td><a href="leap">SUSE Leap</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="rhel">Redhat Enterprise Linux 9 (RHEL)</a></td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="rhel">Redhat Enterprise Linux 8 (RHEL)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="centos">CentOS Stream 9</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="centos">CentOS Stream 8</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="centos">CentOS 7</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="rockylinux">Rocky Linux 9</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="amazonlinux">Amazon Linux 2023</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="photon">VMware Photon OS 5.0</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="ubuntu">Ubuntu 24.04 (Jammy Jellyfish)</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="debian">Debian 12</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="debian">Debian 11 (bullseye)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+  </tbody>
+</table>
+
+### Definition
+
+<table>
   <caption>Compatibility Definition</caption>
   <tbody>
     <tr>
@@ -66,84 +152,6 @@ This table provides the collective knowledge of which distribution are known to 
     <tr>
       <td style="background:#C0C0C0" title="">Unknown</td>
       <td>Requires testing and may not be fully usuable</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <caption>HCL Domino on Linux Compatibility Matrix</caption>
-  <tbody>
-    <tr>
-      <th>Linux Distribution</th>
-      <th>Domino 14</th>
-      <th>Domino 12</th>
-      <th>Domino 11</th>
-    </tr>
-    <tr>
-      <td><a href="leap">SUSE Leap</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="rhel">Redhat Enterprise Linux 9 (RHEL)</a></td>
-      <td style="background:#009C7B;text-align:center;" >Certified</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="rhel">Redhat Enterprise Linux 8 (RHEL)</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="centos">CentOS Stream 9</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="centos">CentOS Stream 8</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="centos">CentOS 7</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="rockylinux">Rocky Linux 9</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="amazonlinux">Amazon Linux 2023</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="photon">VMware Photon OS 5.0</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="ubuntu">Ubuntu LTS 24.04 (Jammy Jellyfish)</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="debian">Debian 11 (bullseye)</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
   </tbody>
 </table>

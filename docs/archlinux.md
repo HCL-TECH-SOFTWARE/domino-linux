@@ -2,7 +2,7 @@
 layout: default
 title: "Arch Linux"
 parent: "Home"
-nav_order: 6
+nav_order: 3
 description: "Arch Linux"
 has_children: false
 ---

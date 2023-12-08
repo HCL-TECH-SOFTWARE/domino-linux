@@ -2,7 +2,7 @@
 layout: default
 title: "Amazon Linux"
 parent: "Home"
-nav_order: 3
+nav_order: 2
 description: "Amazon Linux"
 has_children: false
 ---

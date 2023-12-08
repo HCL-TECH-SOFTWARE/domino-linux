@@ -2,7 +2,7 @@
 layout: default
 title: "Alma Linux"
 parent: "Home"
-nav_order: 2
+nav_order: 1
 description: "Alma Linux"
 has_children: false
 ---

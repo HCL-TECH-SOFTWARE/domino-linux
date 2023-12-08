@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "SUSE Linux Enterprise Server"
+title: "SUSE Linux Enterprise Server / LEAP"
 parent: "Home"
-nav_order: 6
+nav_order: 9
 description: "SUSE Linux Enterprise Server"
 has_children: false
 ---
@@ -32,9 +32,10 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
 
 ## Versions
 
-### SUSE Linux Enterprise 12
 
 ### SUSE Linux Enterprise 15
+
+### SUSE Linux Enterprise 12
 
 ### OpenSUSE Leap 15
 

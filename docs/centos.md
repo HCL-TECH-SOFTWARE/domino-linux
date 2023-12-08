@@ -2,7 +2,7 @@
 layout: default
 title: "CentOS"
 parent: "Home"
-nav_order: 3
+nav_order: 4
 description: "CentOS"
 has_children: false
 ---

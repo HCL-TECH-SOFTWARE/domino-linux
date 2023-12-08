@@ -2,7 +2,7 @@
 layout: default
 title: "Ubuntu Linux"
 parent: "Home"
-nav_order: 6
+nav_order: 10
 description: "Ubuntu Linux"
 has_children: false
 ---
