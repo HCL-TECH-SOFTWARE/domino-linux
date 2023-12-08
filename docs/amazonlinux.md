@@ -29,7 +29,9 @@ has_children: false
 ## Versions
 
 ### Amazon Linux 2023
+Supported by HCL : No
 
+HCL Domino 
 
 ## References
 

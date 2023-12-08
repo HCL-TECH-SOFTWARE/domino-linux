@@ -22,7 +22,7 @@ has_children: false
 
 | --- | --- |
 | License         |    |
-| Package Manager |    |
+| Package Manager | yum |
 | Filesystem      |    |
 | Based on        |    |
 | Support         |    |

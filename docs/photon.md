@@ -24,7 +24,7 @@ Special Linux distribution for Container Hosts
 ## Overview
 | --- | --- |
 | License         |    |
-| Package Manager |    |
+| Package Manager | yum |
 | Filesystem      |    |
 | Based on        | [Red Hat](rhel.md) |
 | Support         |   |

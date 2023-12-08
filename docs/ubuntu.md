@@ -22,7 +22,7 @@ has_children: false
 ## Overview
 | --- | --- |
 | License         |    |
-| Package Manager |  |
+| Package Manager | apt |
 | Filesystem      |  |
 | Based on        | [Debian](debian.md)  |
 | Support         |    |
