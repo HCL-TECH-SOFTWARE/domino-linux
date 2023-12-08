@@ -88,7 +88,7 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="oraclelinux">Oracle Linux</a></td>
+      <td><a href="oracle">Oracle Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
