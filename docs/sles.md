@@ -2,7 +2,7 @@
 layout: default
 title: "SUSE Linux Enterprise Server"
 parent: "Home"
-nav_order: 9
+nav_order: 11
 description: "SUSE Linux Enterprise Server"
 has_children: false
 ---

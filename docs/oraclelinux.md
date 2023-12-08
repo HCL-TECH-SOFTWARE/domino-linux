@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Alma Linux"
+title: "Oracle Linux"
 parent: "Home"
-nav_order: 1
-description: "Alma Linux"
+nav_order: 7
+description: "Oracle Linux"
 has_children: false
 ---
-<h1>Alma Linux</h1>
-[https://almalinux.org](https://almalinux.org)
 
+<h1>Oracle Linux</h1>
+[https://www.oracle.com/linux/](https://www.oracle.com/linux/)
 
 <details close markdown="block">
   <summary>
@@ -20,9 +20,8 @@ has_children: false
 </details>
 
 ## Overview
-
 | --- | --- |
-| License         |    |
+| License         | GNU General Public License   |
 | Package Manager | yum |
 | Filesystem      |    |
 | Based on        | [Red Hat](rhel.md)  |
@@ -30,7 +29,10 @@ has_children: false
 
 
 ## Versions
-Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
+### Oracle Linux 9
+Compatibility : 
+Good
+{: .label .label-green }
 
 ## References

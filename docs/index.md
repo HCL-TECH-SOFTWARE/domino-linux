@@ -88,6 +88,12 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
+      <td><a href="oraclelinux">Oracle Linux</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
       <td><a href="rockylinux">Rocky Linux 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -180,13 +186,8 @@ HCL Domino 8.5.x | ? | ? | ?
 
 Linux Distribution| glibc Version | Package Manager | FileSystem
 ---|----|---|---
-[openSUSE Leap](opensuse.md) | 2.31 | zypper | brtfs/ZFS
-[Redhat Enterprise Linux 9 (RHEL)](rhel.md)| 2.34 | yum 
 [CentOS Stream 9](centos.md)| 2.34 | yum | 
-[Rocky Linux 9](rockylinux.md)|2.34 | yum | https://rockylinux.org/
-[Alma Linux 9](almalinux.md)|2.34|yum | https://almalinux.org
 [Amazon Linux 2023](amazonlinux.md)|2.34 | yum | (fedora) https://aws.amazon.com/amazon-linux-2/
-[Oracle Linux 9](oraclelinux.md)| 2.34 | yum | [Oracle Linux](https://www.oracle.com/linux/) (fedora) 
 [VMware Photon OS 5.0](photon.md)| 2.36 | yum | https://vmware.github.io/photon/
 [Ubuntu LTS 24.04 (Jammy Jellyfish)](ubuntu.md) | 2.35 | apt | https://ubuntu.com/
 [Debian 11 (bullseye)](debian.md)| 2.31 | apt 

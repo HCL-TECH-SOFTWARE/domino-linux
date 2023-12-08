@@ -2,7 +2,7 @@
 layout: default
 title: "Rocky Linux"
 parent: "Home"
-nav_order: 8
+nav_order: 10
 description: "Rocky Linux"
 has_children: false
 ---
@@ -24,11 +24,10 @@ What you need to know about running HCL Domino on Rocky Linux
 ## Overview
 | --- | --- |
 | License         |    |
-| Package Manager |    |
+| Package Manager | yum |
 | Filesystem      |    |
 | Based on        |    |
 | Support         |    |
-
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what Domino version they are compatible with.

@@ -2,7 +2,7 @@
 layout: default
 title: "RedHat Enterprise Server"
 parent: "Home"
-nav_order: 7
+nav_order: 9
 description: "RedHat Enterprise Server"
 has_children: false
 ---
@@ -21,7 +21,7 @@ has_children: false
 ## Overview
 | --- | --- |
 | License         |    |
-| Package Manager |    |
+| Package Manager | yum |
 | Filesystem      |    |
 | Based on        |    |
 | Support         |    |

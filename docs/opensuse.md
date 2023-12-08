@@ -2,7 +2,7 @@
 layout: default
 title: "openSUSE Leap"
 parent: "Home"
-nav_order: 9
+nav_order: 6
 description: "openSUSE Leap"
 has_children: false
 ---
