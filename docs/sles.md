@@ -24,7 +24,7 @@ has_children: false
 | --- | --- |
 | License         |    |
 | Package Manager | zypper |
-| Filesystem      | brtfs/ZFS |
+| Filesystem      | [brtfs](filesystems.md#btrfs), ZFS |
 | Based on        |    |
 | Support         |    |
 

@@ -7,7 +7,8 @@ has_children: true
 ---
 
 <h1>Welcome</h1>
-This is a documentation-only repository - it describes how to run HCL Domino on the various Linux distributions.
+Dcumentation-only for how to run HCL Domino on the various Linux distributions.
+This page is community supported and welcomes contributions.
 
 <details close markdown="block">
   <summary>
