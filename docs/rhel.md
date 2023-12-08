@@ -18,10 +18,25 @@ has_children: false
 {:toc}
 </details>
 
+## Overview
+---|---
+License         | 
+Package Manager | 
+Filesystem      | 
+Based on        |
+Support         |
+
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
 ### RHEL 9
+Library | Version
+---|---
+kernel | 5.14
+glibc  | 2.34-28
+libstdc++ | 11.2.1
+
+
 Domino Version | Compatibility
 --- | ---
 HCL Domino 14 | Certified

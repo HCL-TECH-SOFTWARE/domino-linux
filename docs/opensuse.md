@@ -20,11 +20,12 @@ has_children: false
 </details>
 
 ## Overview
---- | ---
-License | 
-Filesystem | 
-Based on | 
-Wikipedia | 
+---|---
+License         | 
+Package Manager | 
+Filesystem      | 
+Based on        | [SUSE Linux](sles.md)
+Support         |
 
 
 ## Specifics

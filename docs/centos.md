@@ -19,16 +19,22 @@ has_children: false
 </details>
 
 ## Overview
---- | ---
-License | 
-Filesystem | 
-Based on | 
+---|---
+License         | 
+Package Manager | 
+Filesystem      | 
+Based on        | [Red Hat](rhel.md)
+Support         |
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
 ## CentOS 8
-
+Library | Version
+---|---
+kernel | 
+glibc  |
+libstdc++ |
 
 
 ## References

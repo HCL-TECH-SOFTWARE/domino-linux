@@ -21,10 +21,11 @@ has_children: false
 
 ## Overview
 ---|---
-License | 
-Vendor |
-Filesystem |
-Base | Red Hat
+License         | 
+Package Manager | 
+Filesystem      | 
+Based on        | [Red Hat](rhel.md)
+Support         |
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.

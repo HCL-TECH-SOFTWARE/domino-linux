@@ -22,10 +22,12 @@ What you need to know about running HCL Domino on Rocky Linux
 </details>
 
 ## Overview
---- | ---
-License | 
-Filesystem | 
-Based on | 
+---|---
+License         | 
+Package Manager | 
+Filesystem      | 
+Based on        | [Red Hat](rhel.md)
+Support         |
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what Domino version they are compatible with.

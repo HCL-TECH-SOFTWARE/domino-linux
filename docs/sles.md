@@ -20,11 +20,14 @@ has_children: false
 </details>
 
 ## Overview
---- | ---
-License | 
-Filesystem | 
-Based on | 
-Wikipedia | https://en.wikipedia.org/wiki/SUSE_Linux
+---|---
+License         | 
+Package Manager | zypper
+Filesystem      | brtfs/ZFS
+Based on        | 
+Support         |
+
+
 
 
 ## Specifics

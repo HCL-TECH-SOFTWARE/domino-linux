@@ -21,10 +21,7 @@ This is a documentation-only repository - it describes how to run HCL Domino on 
 ## Background
 The system requirements for HCL Domino include RHEL/CentOS and SUSE because those are the releases that HCL has tested (aka "certified") to run on. However, HCL Domino will run on other distributions if a certain minimum criteria is met. This repository is documenting which flavours of Linux is running on and what customers have to be aware of.
 
-## Compatibility
-Overview of which Linux distribution is compatible with which Domino release.
-
-### Domino Compatibility
+## HCL Domino Compatibility
 This table provides the collective knowledge of which distribution are known to be working with a Domino version.
 
 <table>
@@ -85,7 +82,7 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="leap">openSUSE</a></td>
+      <td><a href="opensuse">openSUSE</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -105,24 +102,24 @@ This table provides the collective knowledge of which distribution are known to 
     <tr>
       <td><a href="rhel">Redhat Enterprise Linux 8</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="leap">SUSE Linux (SLES)</a></td>
+      <td><a href="sles">SUSE Linux (SLES)</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="ubuntu">Ubuntu 24.04 (Jammy Jellyfish)</a></td>
+      <td><a href="ubuntu">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="photon">VMware Photon OS 5.0</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
@@ -157,7 +154,7 @@ This table provides the collective knowledge of which distribution are known to 
     </tr>
     <tr>
       <td style="background:#9EFF9E" title="">Yes</td>
-      <td>Works just fine</td>
+      <td>Although not tested by HCL, seems to work just fine</td>
     </tr>
     <tr>
       <td style="background:#FFD147" title="">Limited</td>
@@ -179,7 +176,7 @@ Overview of HCL Domino dependencies
 
 Domino Version | Kernel Version | min.glibc Version | min stdc++ Version | Remarks
 ------| :---: | :---: | :---:
-HCL Domino 14.0.x | ? | ? | ?
+HCL Domino 14.0.x | 5.14 | 2.34-28 | 11.2.1 | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0108740)
 HCL Domino 12.0.x | ? | ? | ?
 HCL Domino 11.0.x | ? | ? | ?
 HCL Domino 10.0.x | ? | ? | ?
@@ -190,8 +187,7 @@ HCL Domino 8.5.x | ? | ? | ?
 
 Linux Distribution| glibc Version | Package Manager | FileSystem
 ---|----|---|---
-[SUSE Linux Enterprise Server (SLES)](suse.md) | 2.31 | zypper | brtfs/ZFS
-[SUSE Leap](leap.md) | 2.31 | zypper | brtfs/ZFS
+[openSUSE Leap](opensuse.md) | 2.31 | zypper | brtfs/ZFS
 [Redhat Enterprise Linux 9 (RHEL)](rhel.md)| 2.34 | yum 
 [CentOS Stream 9](centos.md)| 2.34 | yum | 
 [Rocky Linux 9](rockylinux.md)|2.34 | yum | https://rockylinux.org/
