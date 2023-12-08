@@ -20,14 +20,13 @@ has_children: false
 </details>
 
 ## Overview
----|---
-License         | 
-Package Manager | zypper
-Filesystem      | brtfs/ZFS
-Based on        | 
-Support         |
 
-
+| --- | --- |
+| License         |    |
+| Package Manager | zypper |
+| Filesystem      | brtfs/ZFS |
+| Based on        |    |
+| Support         |    |
 
 
 ## Specifics

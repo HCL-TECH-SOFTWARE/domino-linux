@@ -20,9 +20,12 @@ has_children: false
 </details>
 
 ## Overview
---- | ---
-Filesystem | 
-Based on | [Debian](debian.md)
+| --- | --- |
+| License         |    |
+| Package Manager |  |
+| Filesystem      |  |
+| Based on        | [Debian](debian.md)  |
+| Support         |    |
 
 ## Versions
 

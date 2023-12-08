@@ -22,13 +22,13 @@ Special Linux distribution for Container Hosts
 </details>
 
 ## Overview
----|---
-License         | 
-Package Manager | 
-Filesystem      | 
-Based on        | [Red Hat](rhel.md)
-Support         |
-Download        | https://github.com/vmware/photon/wiki/Downloading-Photon-OS
+| --- | --- |
+| License         |    |
+| Package Manager |    |
+| Filesystem      |    |
+| Based on        | [Red Hat](rhel.md) |
+| Support         |   |
+| Download        | https://github.com/vmware/photon/wiki/Downloading-Photon-OS |
 
 ## Versions
 

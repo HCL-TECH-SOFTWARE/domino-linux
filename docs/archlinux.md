@@ -20,10 +20,12 @@ has_children: false
 </details>
 
 ## Overview
---- | ---
-License | 
-Filesystem | 
-Based on | 
+| --- | --- |
+| License         |   |
+| Package Manager |   |
+| Filesystem      |   |
+| Based on        |   |
+| Support         |   |
 
 ## Versions
 
