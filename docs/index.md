@@ -52,6 +52,35 @@ This table provides the collective knowledge of which distribution are known to 
   </tbody>
 </table>
 
+<table>
+  <caption>Compatibility Definition</caption>
+  <tbody>
+    <tr>
+      <th>Color</th>
+      <th>Explanation</th>
+    </tr>
+    <tr>
+      <td style="background:#009C7B" title="">Certified</td>
+      <td>HCL has tested and supports this platform</td>
+    </tr>
+    <tr>
+      <td style="background:#9EFF9E" title="">Yes</td>
+      <td>Works just fine</td>
+    </tr>
+    <tr>
+      <td style="background:#FFD147" title="">Limited</td>
+      <td>Will work with some tuning</td>
+    </tr>
+    <tr>
+      <td style="background:#FFC7C7" title="">No</td>
+      <td>Has been tested and will not work</td>
+    </tr>
+    <tr>
+      <td style="background:#C0C0C0" title="">Unknown</td>
+      <td>Requires testing and may not be fully usuable</td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <caption>Domino on Linux Compatibility Matrix</caption>
@@ -63,67 +92,67 @@ This table provides the collective knowledge of which distribution are known to 
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="leap.md">SUSE Leap</a></td>
+      <td><a href="leap">SUSE Leap</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="rhel.md">Redhat Enterprise Linux 9 (RHEL)</a></td>
+      <td><a href="rhel">Redhat Enterprise Linux 9 (RHEL)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="rhel.md">Redhat Enterprise Linux 8 (RHEL)</a></td>
+      <td><a href="rhel">Redhat Enterprise Linux 8 (RHEL)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="centos.md">CentOS Stream 9</a></td>
+      <td><a href="centos">CentOS Stream 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="centos.md">CentOS Stream 8</a></td>
+      <td><a href="centos">CentOS Stream 8</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="centos.md">CentOS 7</a></td>
+      <td><a href="centos">CentOS 7</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="rockylinux.md">Rocky Linux 9</a></td>
+      <td><a href="rockylinux">Rocky Linux 9</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="amazonlinux.md">Amazon Linux 2023</a></td>
+      <td><a href="amazonlinux">Amazon Linux 2023</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="photon.md">VMware Photon OS 5.0</a></td>
+      <td><a href="photon">VMware Photon OS 5.0</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="ubuntu.md">Ubuntu LTS 24.04 (Jammy Jellyfish)</a></td>
+      <td><a href="ubuntu">Ubuntu LTS 24.04 (Jammy Jellyfish)</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="debian.md">Debian 11 (bullseye)</a></td>
+      <td><a href="debian">Debian 11 (bullseye)</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -131,18 +160,16 @@ This table provides the collective knowledge of which distribution are known to 
   </tbody>
 </table>
 
-
-
 ## Details
 
 Linux Distribution| glibc Version | Package Manager | FileSystem
 ---|----|---|---
-[SUSE Linux Enterprise Server (SLES)](https://www.suse.com/products/server/) | 2.31 | zypper | brtfs/ZFS
+[SUSE Linux Enterprise Server (SLES)](suse.md) | 2.31 | zypper | brtfs/ZFS
 [SUSE Leap](leap.md) | 2.31 | zypper | brtfs/ZFS
 [Redhat Enterprise Linux 9 (RHEL)](rhel.md)| 2.34 | yum 
 [CentOS Stream 9](centos.md)| 2.34 | yum | 
 [Rocky Linux 9](rockylinux.md)|2.34 | yum | https://rockylinux.org/
-[Alma Linux 9](amalinux.md)|2.34|yum | https://almalinux.org
+[Alma Linux 9](almalinux.md)|2.34|yum | https://almalinux.org
 [Amazon Linux 2023](amazonlinux.md)|2.34 | yum | (fedora) https://aws.amazon.com/amazon-linux-2/
 [Oracle Linux 9](oraclelinux.md)| 2.34 | yum | [Oracle Linux](https://www.oracle.com/linux/) (fedora) 
 [VMware Photon OS 5.0](photon.md)| 2.36 | yum | https://vmware.github.io/photon/
@@ -152,8 +179,7 @@ Linux Distribution| glibc Version | Package Manager | FileSystem
 ## Resources
 
 * [Domino Start Script](https://nashcom.github.io/domino-startscript/)
-* [Domino on touch installer and installation step by step for CentOS Stream](https://nashcom.github.io/domino-startscript/install_domino/)
-
+* [Domino One Touch installer and installation step by step for CentOS Stream](https://nashcom.github.io/domino-startscript/install_domino/)
 
 ## Articles
 
@@ -163,8 +189,7 @@ Linux Distribution| glibc Version | Package Manager | FileSystem
 
 
 ## Interesting links
-
-https://microk8s.io/
+* [Micro-Kubernetes](https://microk8s.io/)
 
 ## Wild and crazy 
 A collection of non-standard environments that run HCL Domino

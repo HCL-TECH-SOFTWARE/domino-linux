@@ -6,9 +6,9 @@ nav_order: 2
 description: "Alma Linux"
 has_children: false
 ---
-
 <h1>Alma Linux</h1>
-https://almalinux.org
+[https://almalinux.org](https://almalinux.org)
+
 
 <details close markdown="block">
   <summary>
@@ -18,6 +18,16 @@ https://almalinux.org
 1. TOC
 {:toc}
 </details>
+
+## Overview
+---|---
+License | 
+Vendor |
+Filesystem |
+Base | Red Hat
+
+## Versions
+Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
 
 ## References

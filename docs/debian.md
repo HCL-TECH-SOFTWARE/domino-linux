@@ -7,6 +7,7 @@ description: "Debian"
 has_children: false
 ---
 <h1>Debian</h1>
+[https://www.debian.org](https://www.debian.org/)
 
 <details close markdown="block">
   <summary>
@@ -18,5 +19,17 @@ has_children: false
 </details>
 
 ## Overview
-Based on
-https://www.debian.org/
+
+
+## Versions
+Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+
+### Debian 12 Bookworm
+tbd
+
+### Debian 11 Bullseye
+tbd
+
+### Debian 10 Buster
+tbd

@@ -8,6 +8,7 @@ has_children: false
 ---
 
 <h1>SUSE Linux Enterprise Server (SLES)</h1>
+[https://www.suse.com/products/server/](https://www.suse.com/products/server/)
 
 <details close markdown="block">
   <summary>
@@ -18,11 +19,30 @@ has_children: false
 {:toc}
 </details>
 
+## Overview
+--- | ---
+Filesystem | 
+Based on | 
+Wikipedia | https://en.wikipedia.org/wiki/SUSE_Linux
+
+
+## Specifics
+HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux does not provide (yet)
+
+## Versions
+
+### SUSE Linux Enterprise 12
+
+### SUSE Linux Enterprise 15
+
+### OpenSUSE Leap 15
+
+### OpenSUSE Tubleweed
+
 
 ## Reference
-https://www.suse.com/products/server/
 
-Downstream : OpenSUSE
-https://get.opensuse.org/leap
+Downstream : [OpenSUSE](https://get.opensuse.org/leap)
+
 
 

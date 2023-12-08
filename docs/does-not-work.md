@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Will not work"
+nav_order: 3
+description: "What will not work"
+has_children: false
+---
+
 <h1>What will not work<h1>
 Lessons learned on what will NOT work.
 
@@ -11,14 +19,14 @@ Lessons learned on what will NOT work.
 </details>
 
 ## ARM CPU
-HCL Domino is not compiled for ARM CPU's and will not work on.
+HCL Domino is not compiled for ARM CPU's and will not work on the following hardware
 * Raspberry Pi
 * Intel Atom CPU's
 * Amazon EC2 Graviton
 
 There are several AHA ideas out there - please vote for them if you want HCL Domino to be supporting ARM CPU's 
 * [ARM version of Domino Server on Linux ](https://domino-ideas.hcltechsw.com/ideas/DOMINO-I-2285)
-* [Domino on Docker in the ARM based Apple M1/M2](https://domino-ideas.hcltechsw.com/ideas/DOMINO-I-2387) 
+* [Domino on Docker in the ARM based Apple M1/M2/M3](https://domino-ideas.hcltechsw.com/ideas/DOMINO-I-2387) 
 * [Domino Designer for ARM](https://domino-ideas.hcltechsw.com/ideas/NTS-I-1897)
 
 ### How about Emulators?
