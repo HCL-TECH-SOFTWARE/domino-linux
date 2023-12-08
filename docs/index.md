@@ -71,7 +71,7 @@ This table provides the collective knowledge of which distribution are known to 
     </tr>
         <tr>
       <td><a href="debian">Debian 12 (bookworm)</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
@@ -103,17 +103,23 @@ This table provides the collective knowledge of which distribution are known to 
       <td><a href="rhel">Redhat Enterprise Linux 8</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#009C7B;text-align:center;" >Certified</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
     </tr>
     <tr>
-      <td><a href="sles">SUSE Linux (SLES)</a></td>
+      <td><a href="sles">SUSE Linux (SLES) 15</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#009C7B;text-align:center;" >Certified</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
+    </tr>
+    <tr>
+      <td><a href="sles">SUSE Linux (SLES) 12.x</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
     </tr>
     <tr>
       <td><a href="ubuntu">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x?</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
@@ -177,7 +183,7 @@ Overview of HCL Domino dependencies
 Domino Version | Kernel Version | min.glibc Version | min stdc++ Version | Remarks
 ------| :---: | :---: | :---:
 HCL Domino 14.0.x | 5.14 | 2.34-28 | 11.2.1 | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0108740)
-HCL Domino 12.0.x | ? | ? | ?
+HCL Domino 12.0.x | 5.14 , 4.18 , 3.10.0-693 , 5.3.18 | ? | ?
 HCL Domino 11.0.x | ? | ? | ?
 HCL Domino 10.0.x | ? | ? | ?
 HCL Domino 9.0.x | ? | ? | ?
