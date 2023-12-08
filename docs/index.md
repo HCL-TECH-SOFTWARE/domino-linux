@@ -37,20 +37,20 @@ This table provides the collective knowledge of which distribution are known to 
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="leap">SUSE Leap</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td><a href="amazonlinux">Amazon Linux 2023</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="rhel">Redhat Enterprise Linux 9 (RHEL)</a></td>
-      <td style="background:#009C7B;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="rhel">Redhat Enterprise Linux 8 (RHEL)</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td><a href="almalinux">Alma Linux</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="amazonlinux">Arch Linux</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
@@ -72,6 +72,24 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
+        <tr>
+      <td><a href="debian">Debian 12 (bookworm)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="debian">Debian 11 (bullseye)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="leap">openSUSE</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
     <tr>
       <td><a href="rockylinux">Rocky Linux 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -79,13 +97,19 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="amazonlinux">Amazon Linux 2023</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td><a href="rhel">Redhat Enterprise Linux 9</a></td>
+      <td style="background:#009C7B;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="photon">VMware Photon OS 5.0</a></td>
+      <td><a href="rhel">Redhat Enterprise Linux 8</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="leap">SUSE Linux (SLES)</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -97,13 +121,7 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="debian">Debian 12</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="debian">Debian 11 (bullseye)</a></td>
+      <td><a href="photon">VMware Photon OS 5.0</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>

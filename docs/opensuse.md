@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "SUSE Linux Enterprise Server / LEAP"
+title: "openSUSE Leap"
 parent: "Home"
 nav_order: 9
-description: "SUSE Linux Enterprise Server"
+description: "openSUSE Leap"
 has_children: false
 ---
 
-<h1>SUSE Linux Enterprise Server (SLES)</h1>
-[https://www.suse.com/products/server/](https://www.suse.com/products/server/)
+<h1>openSUSE Leap</h1>
+[https://www.opensuse.org/](https://www.opensuse.org/)
 
 <details close markdown="block">
   <summary>
@@ -24,7 +24,7 @@ has_children: false
 License | 
 Filesystem | 
 Based on | 
-Wikipedia | https://en.wikipedia.org/wiki/SUSE_Linux
+Wikipedia | 
 
 
 ## Specifics
@@ -32,19 +32,11 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
 
 ## Versions
 
-
-### SUSE Linux Enterprise 15
-
-### SUSE Linux Enterprise 12
-
 ### OpenSUSE Leap 15
 
 ### OpenSUSE Tubleweed
-
+Is a rolling Linux distribution, statements about compatibility with HCL Domino may be outdated by the time reading this text.
 
 ## Reference
-
-Downstream : [OpenSUSE](https://get.opensuse.org/leap)
-
 
 
