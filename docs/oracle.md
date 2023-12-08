@@ -32,6 +32,7 @@ has_children: false
 
 ### Oracle Linux 9
 Compatibility : 
+
 Good
 {: .label .label-green }
 

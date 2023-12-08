@@ -177,7 +177,7 @@ Overview of HCL Domino dependencies
 Domino Version | Kernel Version | min.glibc Version | min stdc++ Version | Remarks
 ------| :---: | :---: | :---:
 HCL Domino 14.0.x | 5.14 | 2.34-28 | 11.2.1 | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0108740)
-HCL Domino 12.0.x | 5.14 , 4.18 , 3.10.0-693 , 5.3.18 | ? |  see System Requirements
+HCL Domino 12.0.2 | 5.14 , 4.18 , 3.10.0-693 , 5.3.18 | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0101447)
 HCL Domino 11.0.x | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0102974)
 HCL Domino 10.0.x | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0098707)
 HCL Domino 9.0.1 FP10 | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0075441)
