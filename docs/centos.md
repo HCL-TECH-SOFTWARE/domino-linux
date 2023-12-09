@@ -32,11 +32,11 @@ has_children: false
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
 ## CentOS 8
-Library | Version
----|---
-kernel | 
-glibc  |
-libstdc++ |
+
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
 
 
 ## References

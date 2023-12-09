@@ -84,7 +84,7 @@ callouts:
     color: yellow
   update:
     title: Update
-    color: green
+    color: green-000
   new:
     title: New
     color: green

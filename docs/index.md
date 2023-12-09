@@ -21,7 +21,7 @@ This page is community supported and welcomes contributions.
 </details>
 
 ## Background
-The system requirements for HCL Domino include RHEL/CentOS and SUSE because those are the releases that HCL has tested (aka "certified") to run on. However, HCL Domino will run on other distributions if a certain minimum criteria is met. This repository is documenting which flavours of Linux is running on and what customers have to be aware of.
+The system requirements for HCL Domino include RHEL/CentOS and SUSE because those are the releases that HCL has tested (aka "certified") to run on. However, HCL Domino will run on other distributions if a certain minimum criteria is met. This repository is documenting which flavours of Linux customers have reported to be running HCL Domino on and what to be aware of.
 
 ## HCL Domino Compatibility
 This table provides the collective knowledge of which distribution are known to be working with a Domino version.

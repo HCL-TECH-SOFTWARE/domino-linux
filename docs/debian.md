@@ -39,7 +39,23 @@ HCL Domino 14.0
 {: .label .label-green }
 
 ### Debian 11 Bullseye
-tbd
+
+HCL Domino 14.0
+{: .label .label-red }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
+
+Kernel version does not allow to run HCL Domino 14
 
 ### Debian 10 Buster
-tbd
+
+HCL Domino 14.0
+{: .label .label-red }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
+
+Kernel version does not allow to run HCL Domino 14

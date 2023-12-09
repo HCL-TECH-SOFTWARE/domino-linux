@@ -80,15 +80,15 @@ Linux StartScript | Yes/No/Tested/Certified
     </tr>
     <tr>
       <td><a href="rhel">Redhat Enterprise Linux 9</a></td>
-      <td style="background:#009C7B;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="rhel">Redhat Enterprise Linux 8</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#009C7B;text-align:center;" >Certified</td>
-      <td style="background:#009C7B;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
   </tbody>
 </table>
@@ -103,7 +103,7 @@ Linux StartScript | Yes/No/Tested/Certified
       <th>Explanation</th>
     </tr>
     <tr>
-      <td style="background:#009C7B" title="">Certified</td>
+      <td style="background:#00FF00" title="">Certified</td>
       <td>HCL has tested and supports this platform</td>
     </tr>
     <tr>
