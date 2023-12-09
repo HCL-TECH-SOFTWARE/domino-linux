@@ -22,11 +22,12 @@ has_children: false
 ## Overview
 
 | --- | --- |
-| License         |   |
+| License         | Free Open Source, GNU GPL |
 | Package Manager | yum |
 | Filesystem      |   |
 | Based on        |   |
 | Support         |   |
+| Read more       | [Wikipedia: ArchLinux](https://en.wikipedia.org/wiki/Arch_Linux) |
 
 ## Versions
 

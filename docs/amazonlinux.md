@@ -7,7 +7,7 @@ description: "Amazon Linux"
 has_children: false
 ---
 <h1>Amazon Linux</h1>
-[https//www.centos.org/](https//www.centos.org/)
+[https://aws.amazon.com/linux/amazon-linux-2023/](https://aws.amazon.com/linux/amazon-linux-2023/)
 
 <details close markdown="block">
   <summary>
@@ -22,17 +22,18 @@ has_children: false
 
 | --- | --- |
 | License         |    |
-| Package Manager |    |
+| Package Manager | dnf / yum |
 | Filesystem      |    |
 | Based on        |    |
 | Support         |    |
+| Read more       | https://docs.aws.amazon.com/linux/al2023/ug/what-is-amazon-linux.html |
 
 ## Versions
 
 ### Amazon Linux 2023
 Supported by HCL : No
 
-HCL Domino 
+
 
 ## References
 

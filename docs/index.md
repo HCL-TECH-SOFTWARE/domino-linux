@@ -48,7 +48,7 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="amazonlinux">Arch Linux</a></td>
+      <td><a href="archlinux">Arch Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>

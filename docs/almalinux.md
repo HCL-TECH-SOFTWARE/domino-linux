@@ -22,15 +22,19 @@ has_children: false
 ## Overview
 
 | --- | --- |
-| License         |    |
+| License         | Free open source |
 | Package Manager | yum |
 | Filesystem      |    |
 | Based on        | [Red Hat](rhel.md)  |
 | Support         |   |
+| Read more       | [Wikipedia: AlmaLinux](https://en.wikipedia.org/wiki/AlmaLinux) |
 
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+### AlmaLinux 9.x
+Kernel: 5.14
 
 
 ## References

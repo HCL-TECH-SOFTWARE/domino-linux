@@ -21,11 +21,12 @@ has_children: false
 ## Overview
 
 | --- | --- |
-| License         |    |
+| License         | Free Open Source, GNU GPL |
 | Package Manager | yum |
 | Filesystem      |    |
 | Based on        |    |
 | Support         |    |
+| Read more       | [Wikipedia: CentOS](https://en.wikipedia.org/wiki/CentOS) |
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.

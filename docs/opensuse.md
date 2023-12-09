@@ -22,11 +22,12 @@ has_children: false
 ## Overview
 
 | --- | --- |
-| License         |    |
+| License         | Free Open Source, GNU GPL |
 | Package Manager |    |
 | Filesystem      |    |
 | Based on        | [SUSE Linux](sles.md) |
 | Support         |   |
+| Read more       | [Wikipedia: openSUSE](https://en.wikipedia.org/wiki/OpenSUSE) |
 
 
 {: .warning }
