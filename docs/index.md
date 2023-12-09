@@ -185,22 +185,6 @@ HCL Domino 9.0.1 FP10 | ? | ? | ? | see [System Requirements](https://support.hc
 HCL Domino 8.5.x | ? | ? | ?
 
 
-## Installation Methods
-Installing HCL Domino on Linux can be done in different ways
-
-### Manual installation
-
-sudo su
-./install
-
-https://help.hcltechsw.com/domino/14.0.0/admin/inst_installingdominoonunixsystems_t.html
-
-
-### One-Touch Installation
-
-### GUI Installation
-
-
 ## Resources
 
 * [Domino Start Script](https://nashcom.github.io/domino-startscript/)

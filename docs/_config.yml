@@ -79,8 +79,8 @@ callouts:
   warning:
     title: Warning
     color: red
-  fix:
-    title: Bugfix
+  attention:
+    title: Attention
     color: yellow
   update:
     title: Update

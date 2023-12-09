@@ -38,6 +38,12 @@ HCL Domino 12.0.x
 HCL Domino 11.0.1
 {: .label .label-green }
 
+## CentOS 6
+
+IBM Domino 9.0.1
+{: .label .label-green }
+
+* Video: [Domino 9 on CentOS 6](https://yewtu.be/playlist?list=PLPyF5NXvGEWCyI7pR7WBhQyrKUWOVr9sc)
 
 ## References
 * [Domino on touch installer and installation step by step for CentOS Stream](https://nashcom.github.io/domino-startscript/install_domino/)
