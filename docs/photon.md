@@ -29,7 +29,9 @@ Special Linux distribution for Container Hosts
 | Filesystem      |    |
 | Based on        | [Red Hat](rhel.md) |
 | Support         |   |
+| Read more       | [Wikipedia: Photon OS](https://de.wikipedia.org/wiki/Photon_OS) |
 | Download        | https://github.com/vmware/photon/wiki/Downloading-Photon-OS |
+
 
 ## Versions
 

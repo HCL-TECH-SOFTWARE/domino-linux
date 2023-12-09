@@ -90,7 +90,7 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="oracle">Oracle Linux</a></td>
+      <td><a href="oracle">Oracle Linux 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -183,6 +183,16 @@ HCL Domino 11.0.x | ? | ? | ? | see [System Requirements](https://support.hcltec
 HCL Domino 10.0.x | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0098707)
 HCL Domino 9.0.1 FP10 | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0075441)
 HCL Domino 8.5.x | ? | ? | ?
+
+
+## Installation Methods
+Installing HCL Domino on Linux can be done in different ways
+
+### Manual installation
+
+### 
+
+### GUI Installation
 
 
 ## Resources

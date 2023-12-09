@@ -27,6 +27,7 @@ has_children: false
 | Filesystem      | [brtfs](filesystems.md#btrfs), ZFS |
 | Based on        |    |
 | Support         |    |
+| Read more       | [Wikipedia: SUSE Linux](https://en.wikipedia.org/wiki/SUSE_Linux) |
 
 
 {: .warning }
@@ -35,10 +36,15 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
 
 ## Versions
 
-
 ### SUSE Linux Enterprise 15
 
+HCL Domino 12.0.2
+{: .label .label-green }
+
 ### SUSE Linux Enterprise 12
+
+HCL Domino 12.0.2
+{: .label .label-green }
 
 
 

@@ -24,11 +24,12 @@ What you need to know about running HCL Domino on Rocky Linux
 ## Overview
 
 | --- | --- |
-| License         |    |
+| License         | Free Open Source, BSD |
 | Package Manager | yum |
 | Filesystem      |    |
 | Based on        |    |
 | Support         |    |
+| Read more       | [Wikipedia: Rocky Linux](https://en.wikipedia.org/wiki/Rocky_Linux) |
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what Domino version they are compatible with.
@@ -36,11 +37,12 @@ Which versions of this Linux distribution exists in the market and what Domino v
 
 ## Rocky Linux 9
 
-## Compatibility
+HCL Domino 14.0
+{: .label .label-green }
+
 Item | Compatibility
 ---| ---
 Linux StartScript | Yes/No/Tested/Certified
-
 
 
 ## Before you start

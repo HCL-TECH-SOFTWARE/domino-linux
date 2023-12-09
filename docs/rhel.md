@@ -26,6 +26,7 @@ has_children: false
 | Filesystem      |    |
 | Based on        |    |
 | Support         |    |
+| Read more       | [Wikipedia: RedHat Enterprise Linux](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) |
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
@@ -37,12 +38,17 @@ kernel | 5.14
 glibc  | 2.34-28
 libstdc++ | 11.2.1
 
+HCL Domino 14.0
+{: .label .label-green }
 
-Domino Version | Compatibility
---- | ---
-HCL Domino 14 | Certified
 
 ### RHEL 8
+
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
+
 
 ### RHEL 7
 

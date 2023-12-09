@@ -27,13 +27,14 @@ has_children: false
 | Filesystem      |    |
 | Based on        | [Red Hat](rhel.md)  |
 | Support         |   |
+| Read more       | [Wikipedia: Oracle Linux](https://en.wikipedia.org/wiki/Oracle_Linux) |
 
 ## Versions
 
 ### Oracle Linux 9
 Compatibility : 
 
-Good
+HCL Domino 14.0
 {: .label .label-green }
 
 ## References
