@@ -5,8 +5,6 @@ nav_order: 1
 description: "HCL Domino Linux"
 has_children: true
 ---
-[View on GitHub](https://github.com/HCL-TECH-SOFTWARE/domino-linux/){: .btn }
-
 <h1>Welcome</h1>
 Documentation about how to run HCL Domino on the various Linux distributions.
 This page is community supported and welcomes contributions.
@@ -72,7 +70,7 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
         <tr>
-      <td><a href="debian">Debian 12 (bookworm)</a></td>
+      <td><a href="linux/debian">Debian 12 (bookworm)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
