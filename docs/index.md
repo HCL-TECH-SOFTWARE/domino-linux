@@ -5,10 +5,11 @@ nav_order: 1
 description: "HCL Domino Linux"
 has_children: true
 ---
+[View on GitHub](https://github.com/HCL-TECH-SOFTWARE/domino-linux/){: .btn }
 
 <h1>Welcome</h1>
-Dcumentation-only for how to run HCL Domino on the various Linux distributions.
-This page is community supported and welcomes contributions.
+Documentation about how to run HCL Domino on the various Linux distributions.
+This page is community supported and welcomes [contributions](https://github.com/HCL-TECH-SOFTWARE/domino-linux/CONTRIBUTING.md).
 
 <details close markdown="block">
   <summary>

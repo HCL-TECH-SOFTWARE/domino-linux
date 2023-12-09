@@ -29,8 +29,7 @@ has_children: false
 | Support         |   |
 
 
-
-## Specifics
+{: .warning }
 HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux does not provide (yet)
 
 ## Versions

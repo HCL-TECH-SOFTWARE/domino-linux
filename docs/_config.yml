@@ -76,6 +76,9 @@ aux_links_new_tab: true
 nav_sort: case_insensitive # Capital letters sorted before lowercase
 
 callouts:
+  warning:
+    title: Warning
+    color: red
   fix:
     title: Bugfix
     color: yellow
