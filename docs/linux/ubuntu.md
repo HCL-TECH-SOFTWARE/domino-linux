@@ -29,6 +29,27 @@ has_children: false
 | Support         |    |
 | Read more       | [Wikipedia: Ubuntux](https://en.wikipedia.org/wiki/Ubuntu) |
 
+## Compatibility
+
+<table>
+  <caption>HCL Domino compatibility with SUSE Linux</caption>
+  <tbody>
+    <tr>
+      <th>Linux Distribution</th>
+      <th>Domino 14</th>
+      <th>Domino 12</th>
+      <th>Domino 11</th>
+    </tr>
+    <tr>
+      <td><a href="linux/ubuntu">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x?</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Versions
 
 ### Ubuntu 22.04 LTS (Jammy Jellyfish)

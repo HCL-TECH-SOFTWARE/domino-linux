@@ -63,6 +63,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
     <tr>
       <td><a href="linux/opensuse">openSUSE</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
@@ -94,8 +95,8 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
     <tr>
-      <td><a href="linux/ubuntu">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x?</td>
+      <td><a href="linux/ubuntu">Ubuntu</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >22.04</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
@@ -120,7 +121,7 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
-    </tr>
+    <tr>
       <td><a href="linux/fedora">Fedora</a></td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
@@ -140,6 +141,7 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
     </tr>
   </tbody>
 </table>
+
 ### Definition
 
 <table>
