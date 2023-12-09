@@ -36,37 +36,37 @@ This table provides the collective knowledge of which distribution are known to 
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="amazonlinux">Amazon Linux 2023</a></td>
+      <td><a href="linux/amazonlinux">Amazon Linux 2023</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="almalinux">Alma Linux</a></td>
+      <td><a href="linux/almalinux">Alma Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="archlinux">Arch Linux</a></td>
+      <td><a href="linux/archlinux">Arch Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="centos">CentOS Stream 9</a></td>
+      <td><a href="linux/centos">CentOS Stream 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="centos">CentOS Stream 8</a></td>
+      <td><a href="linux/centos">CentOS Stream 8</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="centos">CentOS 7</a></td>
+      <td><a href="linux/centos">CentOS 7</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -90,55 +90,55 @@ This table provides the collective knowledge of which distribution are known to 
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
-      <td><a href="opensuse">openSUSE</a></td>
+      <td><a href="linux/opensuse">openSUSE</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="oracle">Oracle Linux 9</a></td>
+      <td><a href="linux/oracle">Oracle Linux 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="rockylinux">Rocky Linux 9</a></td>
+      <td><a href="linux/rockylinux">Rocky Linux 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="rhel">Redhat Enterprise Linux 9</a></td>
+      <td><a href="linux/rhel">Redhat Enterprise Linux 9</a></td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="rhel">Redhat Enterprise Linux 8</a></td>
+      <td><a href="linux/rhel">Redhat Enterprise Linux 8</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
     <tr>
-      <td><a href="sles">SUSE Linux (SLES) 15</a></td>
+      <td><a href="linux/sles">SUSE Linux (SLES) 15</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
     <tr>
-      <td><a href="sles">SUSE Linux (SLES) 12.x</a></td>
+      <td><a href="linux/sles">SUSE Linux (SLES) 12.x</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
     <tr>
-      <td><a href="ubuntu">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
+      <td><a href="linux/ubuntu">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x?</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="photon">VMware Photon OS 5.0</a></td>
+      <td><a href="linux/photon">VMware Photon OS 5.0</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
