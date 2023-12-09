@@ -2,7 +2,7 @@
 layout: default
 title: "Fedora"
 parent: "Home"
-nav_order: 13
+nav_order: 6
 description: "Fedora"
 has_children: false
 ---
@@ -29,7 +29,6 @@ This linux distribution is a rolling release. Compatibility with HCL Domino is n
 | License         | Free Open Source, GPL |
 | Package Manager | yum |
 | Filesystem      |    |
-| Based on        | [Red Hat](rhel.md)  |
 | Support         |   |
 | Read more       | [Wikipedia: Fedora Linux](https://en.wikipedia.org/wiki/Fedora_Linux) |
 

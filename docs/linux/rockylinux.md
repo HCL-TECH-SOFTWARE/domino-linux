@@ -2,7 +2,7 @@
 layout: default
 title: "Rocky Linux"
 parent: "Home"
-nav_order: 10
+nav_order: 11
 description: "Rocky Linux"
 has_children: false
 ---

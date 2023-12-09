@@ -36,8 +36,7 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 ### AlmaLinux 9.x
 Kernel: 5.14
 
-HCL Domino 14.0 {: .label .label-green }
-HCL Domino 12.0.x {: .label .label-green }
+HCL Domino 14.0 {: .label .label-green } HCL Domino 12.0.x {: .label .label-green }
 
 
 

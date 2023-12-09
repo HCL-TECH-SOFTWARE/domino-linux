@@ -23,6 +23,7 @@ The system requirements for HCL Domino include RHEL/CentOS and SUSE because thos
 
 ## HCL Domino Compatibility
 This table provides the collective knowledge of which distribution are known to be working with a Domino version.
+Please note, only distributions declared as "Certified" are tested by HCL.
 
 <table>
   <caption>HCL Domino on Linux Compatibility Matrix</caption>

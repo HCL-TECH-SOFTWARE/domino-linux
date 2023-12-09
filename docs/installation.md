@@ -53,6 +53,15 @@ Probably the easiest and fastest way to install a HCL Domino server is to use an
 curl -sL https://raw.githubusercontent.com/nashcom/domino-startscript/main/install_domino.sh | bash -
 ```
 
+## Silent Installation
+For a silent installation, a response file containing the installation options is envoked when running the installer
+
+```
+sudo ./install -r ./responseFile/installer.properties
+```
+
+For more information see [online help](https://help.hcltechsw.com/domino/14.0.0/admin/inst_usingsilentserverinstallationonwindowsorunixsyste_t.html)
+
 ## GUI Installation
 
 tbd

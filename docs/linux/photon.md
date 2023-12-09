@@ -2,7 +2,7 @@
 layout: default
 title: "Photon"
 parent: "Home"
-nav_order: 8
+nav_order: 9
 description: "VMware Photon OS"
 has_children: false
 ---
