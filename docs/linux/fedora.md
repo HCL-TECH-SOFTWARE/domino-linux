@@ -20,7 +20,7 @@ has_children: false
 </details>
 
 {: .attention }
-This linux distribution is a rolling release. Compatibility with HCL Domino is not guarantueed. Even 
+This linux distribution is a rolling release. Compatibility with HCL Domino is not guarantueed.
 
 
 ## Overview

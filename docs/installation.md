@@ -19,9 +19,10 @@ Installing HCL Domino on Linux can be done in different ways
 </details>
 
 ## Before you start
-* Check the system requirements
-* Update Linux 
-* The following will be used:
+1. Check the [system requirements for HCL Domino](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0073794)
+2. Update Linux 
+3. Get the HCL Domino installer for Linux
+4. The following will be used:
 ```
 User : notes
 Group: notes
@@ -39,9 +40,9 @@ sudo su
 ```
 
 {% include yewtube.html id="fW1iPlcoDSo" %}
-* [Install Domino Server on Linux Environment](https://yewtu.be/watch?v=fW1iPlcoDSo)
 
-For more information, see [online help](https://help.hcltechsw.com/domino/14.0.0/admin/inst_installingdominoonunixsystems_t.html)
+* [Install Domino Server on Linux Environment](https://yewtu.be/watch?v=fW1iPlcoDSo)
+* For more information, see [online help](https://help.hcltechsw.com/domino/14.0.0/admin/inst_installingdominoonunixsystems_t.html)
 
 
 ## Scripted Installation
@@ -52,9 +53,16 @@ Probably the easiest and fastest way to install a HCL Domino server is to use an
 curl -sL https://raw.githubusercontent.com/nashcom/domino-startscript/main/install_domino.sh | bash -
 ```
 
-### GUI Installation
+## GUI Installation
+
+tbd
+
+## Container / Docker / Kubernetes
+
+Installing Domino in a container environment is not covered in this repository. 
+For more information [see this](https://opensource.hcltechsw.com/domino-container/)
 
 ## Nash!Com Start-script
 
-
-
+The de-facto standard for anyone running HCL Domino on Linux.
+Fore more information [see this](https://nashcom.github.io/domino-startscript/install_domino/)
