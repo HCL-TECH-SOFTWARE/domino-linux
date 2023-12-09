@@ -28,8 +28,38 @@ has_children: false
 | Support         |    |
 | Read more       | [Wikipedia: CentOS](https://en.wikipedia.org/wiki/CentOS) |
 
-## Versions
+## Compatibility
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+<table>
+  <caption>HCL Domino compatibility with CentOS Linux</caption>
+  <tbody>
+    <tr>
+      <th>Linux Distribution</th>
+      <th>Domino 14</th>
+      <th>Domino 12</th>
+      <th>Domino 11</th>
+    </tr>
+    <tr>
+      <td><a href="linux/centos">CentOS Stream 9</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="linux/centos">CentOS Stream 8</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="linux/centos">CentOS 7</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+  </tbody>
+</table>
 
 ## CentOS 8
 

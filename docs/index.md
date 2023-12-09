@@ -35,7 +35,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="linux/amazonlinux">Amazon Linux 2023</a></td>
+      <td><a href="linux/amazonlinux">Amazon Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -47,53 +47,22 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/archlinux">Arch Linux</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-        <tr>
       <td><a href="linux/astralinux">Astra Linux</a></td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/centos">CentOS Stream 9</a></td>
+      <td><a href="linux/centos">CentOS / CentOS Stream </a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/centos">CentOS Stream 8</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="linux/centos">CentOS 7</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-        <tr>
-      <td><a href="linux/debian">Debian 12 (bookworm)</a></td>
+      <td><a href="linux/debian">Debian</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="linux/debian">Debian 11 (bullseye)</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="linux/fedora">Fedora</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-    </tr>
     <tr>
       <td><a href="linux/opensuse">openSUSE</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
@@ -101,37 +70,25 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/oracle">Oracle Linux 9</a></td>
+      <td><a href="linux/oracle">Oracle Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/rockylinux">Rocky Linux 9</a></td>
+      <td><a href="linux/rockylinux">Rocky Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/rhel">Redhat Enterprise Linux 9</a></td>
+      <td><a href="linux/rhel">Redhat Enterprise Linux</a></td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-    </tr>
-    <tr>
-      <td><a href="linux/rhel">Redhat Enterprise Linux 8</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
     <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES) 15</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-    </tr>
-    <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES) 12.x</a></td>
+      <td><a href="linux/sles">SUSE Linux (SLES)</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
@@ -151,6 +108,38 @@ Please note, only distributions declared as "Certified" are tested by HCL.
   </tbody>
 </table>
 
+### Experimental
+Linux distributions in this chapter are rolling releases, so any compatibility statement can be obsolete by the time you are reading this document. Be careful, use at your own risk!
+
+<table>
+  <caption>HCL Domino on Linux Compatibility Matrix</caption>
+  <tbody>
+    <tr>
+      <th>Linux Distribution</th>
+      <th>Domino 14</th>
+      <th>Domino 12</th>
+      <th>Domino 11</th>
+    </tr>
+    </tr>
+      <td><a href="linux/fedora">Fedora</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+    <tr>
+      <td><a href="linux/archlinux">Arch Linux</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="linux/opensuse">openSUSE Tumbleweed</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+  </tbody>
+</table>
 ### Definition
 
 <table>
@@ -170,7 +159,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
     </tr>
     <tr>
       <td style="background:#FFD147" title="">Limited</td>
-      <td>Will work with some tuning</td>
+      <td>May work with some some limitations. Use at your own risk</td>
     </tr>
     <tr>
       <td style="background:#FFC7C7" title="">No</td>

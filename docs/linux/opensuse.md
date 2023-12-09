@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "openSUSE Leap"
+title: "OpenSUSE Leap"
 parent: "Home"
 nav_order: 7
-description: "openSUSE Leap"
+description: "OpenSUSE Leap"
 has_children: false
 ---
 
-<h1>openSUSE Leap</h1>
+<h1>OpenSUSE Leap</h1>
 [https://www.opensuse.org/](https://www.opensuse.org/)
 
 <details close markdown="block">
@@ -32,6 +32,32 @@ has_children: false
 
 {: .warning }
 HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux does not provide (yet)
+
+## Overview
+
+<table>
+  <caption>HCL Domino compatibility with SUSE Linux</caption>
+  <tbody>
+    <tr>
+      <th>Linux Distribution</th>
+      <th>Domino 14</th>
+      <th>Domino 12</th>
+      <th>Domino 11</th>
+    </tr>
+ <tr>
+      <td><a href="linux/sles">SUSE Linux (SLES) 15</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+    </tr>
+    <tr>
+      <td><a href="linux/sles">SUSE Linux (SLES) 12.x</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Versions
 

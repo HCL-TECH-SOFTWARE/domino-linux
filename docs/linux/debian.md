@@ -28,6 +28,37 @@ has_children: false
 | Support         |    |
 | Read more       | [Wikipedia: Debian](https://en.wikipedia.org/wiki/Debian) |
 
+## Overview
+
+<table>
+  <caption>HCL Domino compatibility with Debian</caption>
+  <tbody>
+    <tr>
+      <th>Linux Distribution</th>
+      <th>Domino 14</th>
+      <th>Domino 12</th>
+      <th>Domino 11</th>
+    </tr>
+    <tr>
+      <td><a href="linux/debian">Debian 12 (bookworm)</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="linux/debian">Debian 11 (bullseye)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+      <tr>
+      <td><a href="linux/debian">Debian 10 (buster)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
