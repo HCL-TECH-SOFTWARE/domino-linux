@@ -19,7 +19,7 @@ has_children: false
 {:toc}
 </details>
 
-{: .attention }
+{: .warning }
 This linux distribution is a rolling release. Compatibility with HCL Domino is not guarantueed.
 
 

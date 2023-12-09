@@ -34,6 +34,18 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
+     <tr>
+      <td><a href="linux/rhel">Redhat Enterprise Linux</a></td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+    </tr>
+    <tr>
+      <td><a href="linux/sles">SUSE Linux (SLES)</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+    </tr>
     <tr>
       <td><a href="linux/amazonlinux">Amazon Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -83,18 +95,6 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/rhel">Redhat Enterprise Linux</a></td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-    </tr>
-    <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES)</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-    </tr>
-    <tr>
       <td><a href="linux/ubuntu">Ubuntu</a></td>
       <td style="background:#9EFF9E;text-align:center;" >22.04</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -134,7 +134,7 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
-      <td><a href="linux/opensuse">openSUSE Tumbleweed</a></td>
+      <td><a href="linux/opensuse#opensuse-tubleweed">OpenSUSE Tumbleweed</a></td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
