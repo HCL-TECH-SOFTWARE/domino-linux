@@ -150,7 +150,11 @@ This table provides the collective knowledge of which distribution are known to 
       <th>Explanation</th>
     </tr>
     <tr>
-      <td style="background:#009C7B" title="">Certified</td>
+      <td style="background:#00FF00" title="">Certified</td>
+      <td>HCL has tested and supports this platform</td>
+    </tr>
+    <tr>
+      <td style="background:#ADFF2F" title="">Certified</td>
       <td>HCL has tested and supports this platform</td>
     </tr>
     <tr>
@@ -190,7 +194,13 @@ Installing HCL Domino on Linux can be done in different ways
 
 ### Manual installation
 
-### 
+sudo su
+./install
+
+https://help.hcltechsw.com/domino/14.0.0/admin/inst_installingdominoonunixsystems_t.html
+
+
+### One-Touch Installation
 
 ### GUI Installation
 

@@ -42,7 +42,7 @@ HCL Domino 14.0
 
 ### OpenSUSE Tubleweed
 Is a rolling Linux distribution, statements about compatibility with HCL Domino may be outdated by the time reading this text.
-Please be extra careful with information provided here in this chapter!
+Please be extra careful with information provided here in this chapter, even if someone reported HCL Domino to be running on this Linux distro, it may break all of a sudden.
 
 HCL Domino 12.0.x
 {: .label .label-yellow }
