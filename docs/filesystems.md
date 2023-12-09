@@ -28,20 +28,18 @@ Filesystem | Description | Pros | Cons
 [ZFS](#ZFS) | tbd | tbd | tbd 
 
 ## XFS
-https://en.wikipedia.org/wiki/XFS
-
+see [Wikipedia: XFS](https://en.wikipedia.org/wiki/XFS)
 
 ## ext4
-https://en.wikipedia.org/wiki/Ext4
-
+see [Wikipedia Ext4](https://en.wikipedia.org/wiki/Ext4)
 
 ## btrfs
-https://btrfs.readthedocs.io
+see [this](https://btrfs.readthedocs.io)
 Included in: SUSE
 
 ## ZFS
-also OpenZFS
-https://openzfs.org/
+see [OpenZFS](https://openzfs.org/)
+
 Included in: Ubuntu
 Optional repository on Debian/SUSE
 
