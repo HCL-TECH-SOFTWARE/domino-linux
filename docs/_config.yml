@@ -84,13 +84,10 @@ callouts:
     color: yellow
   update:
     title: Update
-    color: green-000
+    color: green
   new:
     title: New
     color: green
-
-# Footer content
-# appears at the bottom of every page's main content
 
 # Back to top link
 back_to_top: true
@@ -98,6 +95,8 @@ back_to_top_text: "Back to top"
 
 next_page: true
 
+# Footer content
+# appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2023 HCLSoftware. Distributed as <a href=\"https://https://github.com/HCL-TECH-SOFTWARE/domino-linux/license\">Apache 2.0 license.</a>"
 
 # Footer last edited timestamp
