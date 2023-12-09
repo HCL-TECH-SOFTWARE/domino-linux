@@ -65,7 +65,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/opensuse">openSUSE</a></td>
+      <td><a href="linux/opensuse">OpenSUSE</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -122,16 +122,16 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="linux/fedora">Fedora</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-    </tr>
-    <tr>
       <td><a href="linux/archlinux">Arch Linux</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="linux/fedora">Fedora</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
       <td><a href="linux/opensuse">openSUSE Tumbleweed</a></td>

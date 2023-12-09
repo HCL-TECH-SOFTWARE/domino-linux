@@ -40,19 +40,19 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="linux/debian">Debian 12 (bookworm)</a></td>
+      <td><a href="#debian-12-bookworm">Debian 12 (bookworm)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/debian">Debian 11 (bullseye)</a></td>
+      <td><a href="#debian-12-bullseye">Debian 11 (bullseye)</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
       <tr>
-      <td><a href="linux/debian">Debian 10 (buster)</a></td>
+      <td><a href="#debian-12-buster">Debian 10 (buster)</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>

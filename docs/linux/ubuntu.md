@@ -41,7 +41,19 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="linux/ubuntu">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
+      <td><a href="#ubuntu-2204-lts-jammy-jellyfish">24.04 LTS (Noble Numbat) </a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+     <tr>
+      <td><a href="#ubuntu-2310-mantic-minotaur">Ubuntu 23.10 (Mantic Minotaur) </a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+    <tr>
+      <td><a href="#ubuntu-2204-lts-jammy-jellyfish">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x?</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>

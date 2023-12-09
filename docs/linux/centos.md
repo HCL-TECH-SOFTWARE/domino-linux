@@ -41,25 +41,36 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="linux/centos">CentOS Stream 9</a></td>
+      <td><a href="#centos-stream-9">CentOS Stream 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/centos">CentOS Stream 8</a></td>
+      <td><a href="#centos-8">CentOS Stream 8</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/centos">CentOS 7</a></td>
+      <td><a href="#centos-7">CentOS 7</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
+      <td><a href="#centos-6">CentOS 6</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
   </tbody>
 </table>
+
+## CentOS Stream 9
+
+HCL Domino 14.0
+{: .label .label-green }
 
 ## CentOS 8
 
