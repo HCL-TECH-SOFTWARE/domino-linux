@@ -33,6 +33,8 @@ has_children: false
 
 ### Ubuntu 22.04 LTS (Jammy Jellyfish)
 
+HCL Domino 14.0
+{: .label .label-red }
 HCL Domino 12.0.x
 {: .label .label-green }
 HCL Domino 11.0.1

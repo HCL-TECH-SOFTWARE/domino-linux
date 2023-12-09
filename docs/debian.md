@@ -34,7 +34,9 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 
 
 ### Debian 12 Bookworm
-tbd
+
+HCL Domino 14.0
+{: .label .label-green }
 
 ### Debian 11 Bullseye
 tbd

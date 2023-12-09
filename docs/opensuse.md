@@ -23,7 +23,7 @@ has_children: false
 
 | --- | --- |
 | License         | Free Open Source, GNU GPL |
-| Package Manager |    |
+| Package Manager | ZYpp, Yast, zypper, rpm |
 | Filesystem      |    |
 | Based on        | [SUSE Linux](sles.md) |
 | Support         |   |
@@ -37,8 +37,15 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
 
 ### OpenSUSE Leap 15
 
+HCL Domino 14.0
+{: .label .label-red }
+
 ### OpenSUSE Tubleweed
 Is a rolling Linux distribution, statements about compatibility with HCL Domino may be outdated by the time reading this text.
+Please be extra careful with information provided here in this chapter!
+
+HCL Domino 12.0.x
+{: .label .label-yellow }
 
 ## Reference
 

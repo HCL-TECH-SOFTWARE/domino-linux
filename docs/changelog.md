@@ -28,3 +28,11 @@ Test for Update
 
 {: .fix }
 test for a fix
+
+## Testing UI Elements
+
+Label Green
+{: .label .label-green }
+
+Label Yellow
+{: .label .label-yellow }

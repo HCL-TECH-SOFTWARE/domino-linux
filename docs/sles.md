@@ -38,11 +38,15 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
 
 ### SUSE Linux Enterprise 15
 
+HCL Domino 14.0
+{: .label .label-red }
 HCL Domino 12.0.2
 {: .label .label-green }
 
 ### SUSE Linux Enterprise 12
 
+HCL Domino 14.0
+{: .label .label-red }
 HCL Domino 12.0.2
 {: .label .label-green }
 
@@ -50,7 +54,7 @@ HCL Domino 12.0.2
 
 ## Reference
 
-Downstream : [OpenSUSE](https://get.opensuse.org/leap)
+Downstream : [OpenSUSE](opensuse.md)
 
 
 
