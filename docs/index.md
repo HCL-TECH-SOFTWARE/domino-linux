@@ -52,6 +52,12 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
+        <tr>
+      <td><a href="linux/astralinux">Astra Linux</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
     <tr>
       <td><a href="linux/centos">CentOS Stream 9</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
