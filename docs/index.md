@@ -96,7 +96,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
     </tr>
     <tr>
       <td><a href="linux/ubuntu">Ubuntu</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >22.04</td>
+      <td style="background:#FFD147;text-align:center;" >22.04-03 LTS</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
