@@ -73,8 +73,7 @@ HCL Domino 12.0.x
 HCL Domino 11.0.1
 {: .label .label-green }
 
-Label Yellow
-{: .label .label-yellow }
+{: .attention }
 Ubuntu introduced a new major 6.x kernel option in 22.04-03 LTS. This kernel is not supported by Domino 14 yet, so downgrading to Kernel 5.x is required.
 
 The 6.x kernel installation depends on the Hardware enablement stack (HWE).
