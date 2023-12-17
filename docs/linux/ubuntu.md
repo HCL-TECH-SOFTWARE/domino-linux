@@ -41,12 +41,6 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="#ubuntu-2204-lts-jammy-jellyfish">Ubuntu 24.04 LTS (Noble Numbat) </a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-    </tr>
-     <tr>
       <td><a href="#ubuntu-2310-mantic-minotaur">Ubuntu 23.10 (Mantic Minotaur) </a></td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
@@ -63,6 +57,10 @@ has_children: false
 
 
 # Versions
+
+## Ubuntu 23.10 (Mantic Minotaur)
+
+No information available yet.
 
 ## Ubuntu 22.04 LTS (Jammy Jellyfish)
 
@@ -111,13 +109,14 @@ hwe-support-status --verbose
 You are not running a system with a Hardware Enablement Stack. Your system is supported until April 2027
 ```
 
+If enabled, querying the status will return just this message:
 ```
 hwe-support-status --verbose
 
 Your Hardware Enablement Stack (HWE) is supported until April 2027.
 ```
 
-### Hardware Enablement Stack (HWE)
+**Disable Hardware Enablement Stack (HWE)**
 
 If HWE is installed, remove it to avoid future kernel updates to a 6.x kernel.
 Note, this doesn't remove the newer kernel. It just removes the HWE package.
@@ -172,8 +171,5 @@ apt-get remove linux-image-6.2.0-39-generic
 
 Finally reboot and check if the machine still boots up.
 
-### Ubuntu 23.10 (Mantic Minotaur)
-
-### Ubuntu 24.04 LTS (Noble Numbat)
 
 ## References
