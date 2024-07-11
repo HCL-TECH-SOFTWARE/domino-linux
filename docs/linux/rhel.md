@@ -62,7 +62,7 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 HCL Domino 14.0
 {: .label .label-green }
 
-Works fine. [Standard installation methods](../installation) apply.
+Works fine. [Standard installation methods](../installation.md) apply.
 
 ### RHEL 8
 

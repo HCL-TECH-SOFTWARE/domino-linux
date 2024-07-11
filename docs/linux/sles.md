@@ -45,18 +45,18 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
       <th>Domino 11</th>
     </tr>
  <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES) 15 SP6</a></td>
+      <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP6</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#C0C0C0;text-align:center;" >Untested</td>
       <td style="background:#C0C0C0;text-align:center;" >Untested</td>
     </tr> <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES) 15 SP3</a></td>
+      <td><a href="#suse-linux-enterprise-15-sp3">SUSE Linux (SLES) 15 SP3</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
     <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES) 12.x</a></td>
+      <td><a href="#suse-linux-enterprise-12">SUSE Linux (SLES) 12.x</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
