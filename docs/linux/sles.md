@@ -47,7 +47,7 @@ has_children: false
       <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP6</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#FFD147;text-align:center;" >Maybe</td>
     </tr> <tr>
       <td><a href="#suse-linux-enterprise-15-sp3">SUSE Linux (SLES) 15 SP3</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
@@ -71,9 +71,10 @@ HCL Domino 14.0
 HCL Domino 12.0.2
 {: .label .label-green }
 HCL Domino 11.0.1
-{: .label .label-green }
+{: .label .label-yellow }
 
-Customers have reported Domino 14 + 12 + 11 to run on SLES 15 SP6, but HCL has not certified this version yet.
+Customers have reported Domino 14 + 12.0.2 to run on SLES 15 SP6, but HCL has not certified this version yet.
+For Domino 11.0.1 no information exist
 
 * [SUSE Linux Enterprise Server 15 SP6 Release Notes](https://documentation.suse.com/en-us/sles/15-SP6/)
 
