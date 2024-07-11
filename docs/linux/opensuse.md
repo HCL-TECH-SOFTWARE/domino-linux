@@ -60,6 +60,7 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
 </table>
 
 ## Versions
+Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
 ### OpenSUSE Leap 15
 

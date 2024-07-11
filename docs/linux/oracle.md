@@ -32,7 +32,7 @@ has_children: false
 ## Compatibility
 
 <table>
-  <caption>HCL Domino on Oracle Linux Compatibility Matrix</caption>
+  <caption>HCL Domino compatibility with Oracle Linux</caption>
   <tbody>
     <tr>
       <th>Linux Distribution</th>
@@ -50,6 +50,7 @@ has_children: false
 </table>
 
 ## Versions
+Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 ### Oracle Linux 9
 
 HCL Domino 14.0

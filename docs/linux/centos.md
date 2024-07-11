@@ -29,7 +29,6 @@ has_children: false
 | Read more       | [Wikipedia: CentOS](https://en.wikipedia.org/wiki/CentOS) |
 
 ## Compatibility
-Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
 <table>
   <caption>HCL Domino compatibility with CentOS Linux</caption>
@@ -67,20 +66,22 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
   </tbody>
 </table>
 
-## CentOS Stream 9
+## Versions
+Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+### CentOS Stream 9
 
 HCL Domino 14.0 {: .label .label-green } 
 HCL Domino 12.0.x {: .label .label-green } 
 HCL Domino 11.0.1 {: .label .label-green }
 
-## CentOS 8
+### CentOS 8
 
 HCL Domino 12.0.x
 {: .label .label-green }
 HCL Domino 11.0.1
 {: .label .label-green }
 
-## CentOS 6
+### CentOS 6
 
 IBM Domino 9.0.1
 {: .label .label-green }
@@ -89,3 +90,35 @@ IBM Domino 9.0.1
 
 ## References
 * [Domino on touch installer and installation step by step for CentOS Stream](https://nashcom.github.io/domino-startscript/install_domino/)
+
+## Definition
+
+<table>
+  <caption>Compatibility Definition</caption>
+  <tbody>
+    <tr>
+      <th>Color</th>
+      <th>Explanation</th>
+    </tr>
+    <tr>
+      <td style="background:#00FF00" title="">Certified</td>
+      <td>HCL has tested and supports this platform</td>
+    </tr>
+    <tr>
+      <td style="background:#9EFF9E" title="">Yes</td>
+      <td>Although not tested by HCL, seems to work just fine</td>
+    </tr>
+    <tr>
+      <td style="background:#FFD147" title="">Limited</td>
+      <td>May work with some some limitations. Use at your own risk</td>
+    </tr>
+    <tr>
+      <td style="background:#FFC7C7" title="">No</td>
+      <td>Has been tested and will not work</td>
+    </tr>
+    <tr>
+      <td style="background:#C0C0C0" title="">Unknown</td>
+      <td>Requires testing and may not be fully usuable</td>
+    </tr>
+  </tbody>
+</table>

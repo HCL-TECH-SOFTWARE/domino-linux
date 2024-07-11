@@ -25,13 +25,13 @@ has_children: false
 | Package Manager | yum |
 | Filesystem      |    |
 | Based on        |    |
-| Support         |    |
+| Support         | [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata#Extended_Life_Cycle_Phase) |
 | Read more       | [Wikipedia: RedHat Enterprise Linux](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) |
 
 ## Compatibility
 
 <table>
-  <caption>HCL Domino on Linux Compatibility Matrix</caption>
+  <caption>HCL Domino on RHEL Linux Compatibility Matrix</caption>
   <tbody>
     <tr>
       <th>Linux Distribution</th>
@@ -105,3 +105,35 @@ HCL Domino 14.0
 * [Easier ways to access RHEL](https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel)
 * [Red Hat Developer Portal](https://developers.redhat.com/)
 * [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata#Extended_Life_Cycle_Phase)
+
+## Definition
+
+<table>
+  <caption>Compatibility Definition</caption>
+  <tbody>
+    <tr>
+      <th>Color</th>
+      <th>Explanation</th>
+    </tr>
+    <tr>
+      <td style="background:#00FF00" title="">Certified</td>
+      <td>HCL has tested and supports this platform</td>
+    </tr>
+    <tr>
+      <td style="background:#9EFF9E" title="">Yes</td>
+      <td>Although not tested by HCL, seems to work just fine</td>
+    </tr>
+    <tr>
+      <td style="background:#FFD147" title="">Limited</td>
+      <td>May work with some some limitations. Use at your own risk</td>
+    </tr>
+    <tr>
+      <td style="background:#FFC7C7" title="">No</td>
+      <td>Has been tested and will not work</td>
+    </tr>
+    <tr>
+      <td style="background:#C0C0C0" title="">Unknown</td>
+      <td>Requires testing and may not be fully usuable</td>
+    </tr>
+  </tbody>
+</table>
