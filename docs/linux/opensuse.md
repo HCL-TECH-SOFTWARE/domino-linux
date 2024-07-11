@@ -46,16 +46,16 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
       <th>Domino 11</th>
     </tr>
  <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES) 15</a></td>
+      <td><a href="#opensuse-leap-15)">OpenSUSE Leap 15</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES) 12.x</a></td>
+      <td><a href="#opensuse-tumbleweed">OpenSUSE Tumbleweed 12.x</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
   </tbody>
 </table>
@@ -68,7 +68,7 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 HCL Domino 14.0
 {: .label .label-red }
 
-### OpenSUSE Tubleweed
+### OpenSUSE Tumbleweed
 
 {: .attention }
 Is a rolling Linux distribution, statements about compatibility with HCL Domino may be outdated by the time reading this text.

@@ -29,6 +29,7 @@ has_children: false
 | Based on        | [Red Hat](rhel.md)  |
 | Support         |   |
 | Read more       | [Wikipedia: AlmaLinux](https://en.wikipedia.org/wiki/AlmaLinux) |
+| Download        | [from AlmaLinux](https://almalinux.org/get-almalinux) |
 
 ## Compatibility
 
