@@ -32,7 +32,7 @@ has_children: false
 
 
 {: .warning }
-HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux does not provide (yet)
+HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux 15 SP3 does not provide (yet). SLES 15sp6 provides glibc in the required version but has not been fully tested yet.
 
 ## Compatibility
 

@@ -25,12 +25,14 @@ What you need to know about running HCL Domino on Rocky Linux
 
 | --- | --- |
 | Certified by HCL | No |
-| License         |    |
-| Package Manager |  |
+| License         | BSD  |
+| Package Manager |   |
 | Filesystem      |    |
-| Based on        |    |
+| Based on        | RedHat Enterprise Linux   |
 | Support         |  |
-| Read more       |  |
+| Read more       | [Wikipedia](https://de.wikipedia.org/wiki/Rocky_Linux) |
+| Download        | [from RockyLinux.org](https://rockylinux.org/download)  |
+
 ## Compatibility
 
 <table>
@@ -65,6 +67,7 @@ Linux StartScript | Yes/No/Tested/Certified
 
 ## References
 
+* [Rocky Linux 9.4 Announcement](https://rockylinux.org/zh_TW/news/rocky-linux-9-4-ga-release)
 ## Definition
 
 <table>
