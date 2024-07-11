@@ -71,6 +71,10 @@ HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.2
 {: .label .label-yellow }
+HCL Domino 11.0.1
+{: .label .label-yellow }
+
+While Domino 12.0.x and 11.0.x may work on SLES 15 SP6, it has not been tested yet. 
 
 * [SUSE LInux Enterprise Server 15 SP6 Release Notes](https://documentation.suse.com/en-us/sles/15-SP6/)
 
@@ -80,8 +84,10 @@ HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.2
 {: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
 
-Domino 12.0.2 is certified on SLES 15 SP3 (with kernel 5.3) for details see [Domino 12.0.2 System Requirements ](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0101447)
+Domino 12.0.2 and 11.0.1 are certified on SLES 15 SP3 (with kernel 5.3) for details see [Domino 12.0.2 System Requirements ](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0101447)
 
 ### SUSE Linux Enterprise 12
 
@@ -89,7 +95,8 @@ HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.2
 {: .label .label-green }
-
+HCL Domino 11.0.1
+{: .label .label-green }
 
 
 ## References
