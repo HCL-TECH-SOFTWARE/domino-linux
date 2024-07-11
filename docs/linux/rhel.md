@@ -59,15 +59,10 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 
 ### RHEL 9
 
-Library | Version
----|---
-kernel | 5.14
-glibc  | 2.34-28
-libstdc++ | 11.2.1
-
 HCL Domino 14.0
 {: .label .label-green }
 
+Works fine. [Standard installation methods](../installation) apply.
 
 ### RHEL 8
 

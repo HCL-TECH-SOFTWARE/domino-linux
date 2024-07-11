@@ -66,7 +66,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
     </tr>
     <tr>
       <td><a href="linux/centos">CentOS / CentOS Stream </a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Stream 9</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
@@ -184,7 +184,6 @@ HCL Domino 12.0.2 | 5.14 , 4.18 , 3.10.0-693 , 5.3.18 | ? | ? | see [System Requ
 HCL Domino 11.0.x | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0102974)
 HCL Domino 10.0.x | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0098707)
 HCL Domino 9.0.1 FP10 | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0075441)
-HCL Domino 8.5.x | ? | ? | ?
 
 
 ## Resources

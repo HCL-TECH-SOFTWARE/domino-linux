@@ -41,12 +41,6 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="#ubuntu-2310-mantic-minotaur">Ubuntu 23.10 (Mantic Minotaur) </a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-    </tr>
-    <tr>
       <td><a href="#ubuntu-2204-lts-jammy-jellyfish">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
       <td style="background:#FFD147;text-align:center;" >Kernel 6.x</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -57,10 +51,6 @@ has_children: false
 
 
 # Versions
-
-## Ubuntu 23.10 (Mantic Minotaur)
-
-No information available yet.
 
 ## Ubuntu 22.04 LTS (Jammy Jellyfish)
 
@@ -73,6 +63,8 @@ HCL Domino 11.0.1
 
 {: .attention }
 Ubuntu introduced a new major 6.x kernel option in 22.04-03 LTS. This kernel is not supported by Domino 14 yet, so downgrading to Kernel 5.x is required.
+
+The following information is based on this blog post from Daniel Nashed
 
 The 6.x kernel installation depends on the Hardware enablement stack (HWE).
 By default the HWE package is only installed on Desktops, but some providers might have already switched to the later kernel.

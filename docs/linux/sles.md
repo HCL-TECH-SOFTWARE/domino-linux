@@ -45,7 +45,12 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
       <th>Domino 11</th>
     </tr>
  <tr>
-      <td><a href="linux/sles">SUSE Linux (SLES) 15</a></td>
+      <td><a href="linux/sles">SUSE Linux (SLES) 15 SP6</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#C0C0C0;text-align:center;" >Untested</td>
+      <td style="background:#C0C0C0;text-align:center;" >Untested</td>
+    </tr> <tr>
+      <td><a href="linux/sles">SUSE Linux (SLES) 15 SP3</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
@@ -61,12 +66,21 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
 
 ## Versions
 
-### SUSE Linux Enterprise 15
+### SUSE Linux Enterprise 15 SP6
+HCL Domino 14.0
+{: .label .label-red }
+HCL Domino 12.0.2
+{: .label .label-yellow }
+
+
+### SUSE Linux Enterprise 15 SP3
 
 HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.2
 {: .label .label-green }
+
+Domino 12.0.2 is certified on SLES 15 SP3 (with kernel 5.3) for details see [Domino 12.0.2 System Requirements ](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0101447)
 
 ### SUSE Linux Enterprise 12
 

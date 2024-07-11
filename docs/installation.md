@@ -21,7 +21,7 @@ Installing HCL Domino on Linux can be done in different ways
 ## Before you start
 1. Check the [system requirements for HCL Domino](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0073794)
 2. Update Linux 
-3. Get the HCL Domino installer for Linux
+3. Get the HCL Domino installer for Linux from [HCL's SW Download Portal](https://my.hcltechsw.com)
 4. The following will be used:
 ```
 User : notes
