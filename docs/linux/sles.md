@@ -72,6 +72,7 @@ HCL Domino 14.0
 HCL Domino 12.0.2
 {: .label .label-yellow }
 
+* [SUSE LInux Enterprise Server 15 SP6 Release Notes](https://documentation.suse.com/en-us/sles/15-SP6/)
 
 ### SUSE Linux Enterprise 15 SP3
 
@@ -91,9 +92,9 @@ HCL Domino 12.0.2
 
 
 
-## Reference
+## References
 
-Downstream : [OpenSUSE](opensuse.md)
+* [OpenSUSE](opensuse.md) Leap is a distribution similar to SLES but free of charge.
 
 
 

@@ -40,13 +40,13 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="linux/rhel">Redhat Enterprise Linux 9</a></td>
+      <td><a href="#rhel-9">Redhat Enterprise Linux 9</a></td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/rhel">Redhat Enterprise Linux 8</a></td>
+      <td><a href="#rhel-8">Redhat Enterprise Linux 8</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
@@ -73,22 +73,35 @@ HCL Domino 12.0.x
 HCL Domino 11.0.1
 {: .label .label-green }
 
+Please note the end of support statement from Red Hat:
+* [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata#Extended_Life_Cycle_Phase)
 
 ### RHEL 7
 
+{: .warning }
+RHEL 7 has reached its end of mainstream support / end of marketing and should not be used any longer. Extended support may be provided by RedHat. For details see [RHEL 7 end of maintenance](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/rhel-7-end-of-maintenance)
+
+for RHEL 7.4+ :
+
 HCL Domino 14.0
 {: .label .label-red }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
 
 ### RHEL 6
+{: .warning }
+RHEL 7 has reached its end of life and end of extended support on 30. June 2024 and should not be used any longer. 
 
 HCL Domino 14.0
 {: .label .label-red }
-
 
 
 ## References
 
-* [Redhat Linux for up to 16 machines](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+* [Red Hat Linux for up to 16 machines](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 * [No-cost Red Hat Enterprise Linux Individual Developer Subscription](https://developers.redhat.com/articles/faqs-no-cost-red-hat-enterprise-linux)
 * [Easier ways to access RHEL](https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel)
-* [Redhat Developer Portal](https://developers.redhat.com/)
+* [Red Hat Developer Portal](https://developers.redhat.com/)
+* [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata#Extended_Life_Cycle_Phase)

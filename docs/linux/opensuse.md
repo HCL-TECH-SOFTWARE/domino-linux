@@ -78,3 +78,34 @@ HCL Domino 12.0.x
 ## Reference
 
 
+## Definition
+
+<table>
+  <caption>Compatibility Definition</caption>
+  <tbody>
+    <tr>
+      <th>Color</th>
+      <th>Explanation</th>
+    </tr>
+    <tr>
+      <td style="background:#00FF00" title="">Certified</td>
+      <td>HCL has tested and supports this platform</td>
+    </tr>
+    <tr>
+      <td style="background:#9EFF9E" title="">Yes</td>
+      <td>Although not tested by HCL, seems to work just fine</td>
+    </tr>
+    <tr>
+      <td style="background:#FFD147" title="">Limited</td>
+      <td>May work with some some limitations. Use at your own risk</td>
+    </tr>
+    <tr>
+      <td style="background:#FFC7C7" title="">No</td>
+      <td>Has been tested and will not work</td>
+    </tr>
+    <tr>
+      <td style="background:#C0C0C0" title="">Unknown</td>
+      <td>Requires testing and may not be fully usuable</td>
+    </tr>
+  </tbody>
+</table>
