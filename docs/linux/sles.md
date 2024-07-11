@@ -69,12 +69,11 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.2
-{: .label .label-yellow }
+{: .label .label-green }
 HCL Domino 11.0.1
-{: .label .label-yellow }
+{: .label .label-green }
 
-Customers have reported Domino 14 to run on SLES 15 SP6, but HCL has not certified this version yet.
-While Domino 12.0.x and 11.0.x may work on SLES 15 SP6, it has not been tested yet. 
+Customers have reported Domino 14 + 12 + 11 to run on SLES 15 SP6, but HCL has not certified this version yet.
 
 * [SUSE Linux Enterprise Server 15 SP6 Release Notes](https://documentation.suse.com/en-us/sles/15-SP6/)
 
