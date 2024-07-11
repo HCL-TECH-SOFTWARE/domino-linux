@@ -22,6 +22,7 @@ has_children: false
 ## Overview
 
 | --- | --- |
+| Certified by HCL | No |
 | License         | Free open source |
 | Package Manager | yum |
 | Filesystem      |    |

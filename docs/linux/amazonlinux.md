@@ -21,6 +21,7 @@ has_children: false
 ## Overview
 
 | --- | --- |
+| Certified by HCL | No |
 | License         |    |
 | Package Manager | dnf / yum |
 | Filesystem      |    |

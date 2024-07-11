@@ -24,13 +24,14 @@ Special Linux distribution for Container Hosts
 ## Overview
 
 | --- | --- |
-| License         |    |
+| Certified by HCL | No |
+| License         | Apache License, Version 2.0 |
 | Package Manager | yum |
 | Filesystem      |    |
 | Based on        | [Red Hat](rhel.md) |
 | Support         |   |
 | Read more       | [Wikipedia: Photon OS](https://de.wikipedia.org/wiki/Photon_OS) |
-| Download        | https://github.com/vmware/photon/wiki/Downloading-Photon-OS |
+| Download        | [from Github](https://github.com/vmware/photon/wiki/Downloading-Photon-OS)  |
 
 ## Compatibility
 

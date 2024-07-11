@@ -26,6 +26,7 @@ This linux distribution is a rolling release. Compatibility with HCL Domino is n
 ## Overview
 
 | --- | --- |
+| Certified by HCL | No |
 | License         | Free Open Source, GPL |
 | Package Manager | yum |
 | Filesystem      |    |

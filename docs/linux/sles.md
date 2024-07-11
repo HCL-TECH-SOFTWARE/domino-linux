@@ -22,6 +22,7 @@ has_children: false
 ## Overview
 
 | --- | --- |
+| Certified by HCL | Yes |
 | License         |    |
 | Package Manager | zypper |
 | Filesystem      | [brtfs](../filesystems.md#btrfs), ZFS |

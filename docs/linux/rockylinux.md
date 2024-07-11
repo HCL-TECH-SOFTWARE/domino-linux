@@ -23,6 +23,14 @@ What you need to know about running HCL Domino on Rocky Linux
 
 ## Overview
 
+| --- | --- |
+| Certified by HCL | No |
+| License         |    |
+| Package Manager |  |
+| Filesystem      |    |
+| Based on        |    |
+| Support         |  |
+| Read more       |  |
 ## Compatibility
 
 <table>
