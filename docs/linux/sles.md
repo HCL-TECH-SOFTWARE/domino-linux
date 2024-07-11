@@ -88,7 +88,7 @@ HCL Domino 11.0.1
 {: .label .label-green }
 
 {: .warning }
-HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux 15 SP3 does not provide (yet). SLES 15sp6 provides glibc in the required version but has not been fully tested yet.
+HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux 15 SP3 does not provide. SLES 15sp6 provides glibc in the required version but has not been fully tested yet.
 
 Domino 12.0.2 and 11.0.1 are certified on SLES 15 SP3 (with kernel 5.3) for details see [Domino 12.0.2 System Requirements ](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0101447)
 
@@ -101,6 +101,8 @@ HCL Domino 12.0.2
 HCL Domino 11.0.1
 {: .label .label-green }
 
+{: .warning }
+HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux 12 does not provide.
 
 ## References
 
