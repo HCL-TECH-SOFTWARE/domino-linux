@@ -23,12 +23,14 @@ has_children: false
 
 | --- | --- |
 | Certified by HCL | Yes |
-| License         |    |
+| License         |  GPL |
 | Package Manager | zypper |
 | Filesystem      | [brtfs](../filesystems.md#btrfs), ZFS |
 | Based on        |    |
 | Support         |    |
 | Read more       | [Wikipedia: SUSE Linux](https://en.wikipedia.org/wiki/SUSE_Linux) |
+| Download        | [Evaluation Copy](https://www.suse.com/download/sles/) |
+
 
 
 {: .warning }
@@ -47,7 +49,7 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
     </tr>
  <tr>
       <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP6</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#C0C0C0;text-align:center;" >Untested</td>
       <td style="background:#C0C0C0;text-align:center;" >Untested</td>
     </tr> <tr>
@@ -69,15 +71,16 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 ### SUSE Linux Enterprise 15 SP6
 HCL Domino 14.0
-{: .label .label-red }
+{: .label .label-green }
 HCL Domino 12.0.2
 {: .label .label-yellow }
 HCL Domino 11.0.1
 {: .label .label-yellow }
 
+Customers have reported Domino 14 to run on SLES 15 SP6, but HCL has not certified this version yet.
 While Domino 12.0.x and 11.0.x may work on SLES 15 SP6, it has not been tested yet. 
 
-* [SUSE LInux Enterprise Server 15 SP6 Release Notes](https://documentation.suse.com/en-us/sles/15-SP6/)
+* [SUSE Linux Enterprise Server 15 SP6 Release Notes](https://documentation.suse.com/en-us/sles/15-SP6/)
 
 ### SUSE Linux Enterprise 15 SP3
 
