@@ -33,7 +33,7 @@ has_children: false
 ## Compatibility
 
 <table>
-  <caption>HCL Domino compatibility with SUSE Linux</caption>
+  <caption>HCL Domino compatibility with Ubuntu Linux</caption>
   <tbody>
     <tr>
       <th>Linux Distribution</th>
@@ -42,28 +42,47 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
+      <td><a href="#ubuntu-2404-lts-noble-numbat">Ubuntu 24.04 (Noble Numbat)</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
       <td><a href="#ubuntu-2204-lts-jammy-jellyfish">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
-      <td style="background:#FFD147;text-align:center;" >Kernel 6.x</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
   </tbody>
 </table>
 
-
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+### Ubuntu 24.04 LTS (Noble Numbat)
+
+HCL Domino 14.0
+{: .label .label-green }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-grey }
+
+{: .attention }
+Ubuntu introduced a new major 6.x kernel option in 24.04-03 LTS. This kernel is not supported by Domino 14 yet, so downgrading to Kernel 5.x is required in order to be in line with the HCL support definitions.
+
+
 ### Ubuntu 22.04 LTS (Jammy Jellyfish)
 
 HCL Domino 14.0
-{: .label .label-yellow }
+{: .label .label-green }
 HCL Domino 12.0.x
 {: .label .label-green }
 HCL Domino 11.0.1
 {: .label .label-green }
 
 {: .attention }
-Ubuntu introduced a new major 6.x kernel option in 22.04-03 LTS. This kernel is not supported by Domino 14 yet, so downgrading to Kernel 5.x is required.
+Ubuntu introduced a new major 6.x kernel option in 22.04-03 LTS. This kernel is not supported by Domino 14 yet, so downgrading to Kernel 5.x is required in order to be in line with the HCL support definitions.
 
 The following information is based on this blog post from Daniel Nashed
 

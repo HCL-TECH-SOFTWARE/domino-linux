@@ -43,7 +43,7 @@ has_children: false
     <tr>
       <td><a href="#astra-linux">Common Edition</a></td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
      <tr>
