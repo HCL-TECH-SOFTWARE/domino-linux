@@ -63,7 +63,10 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 Commercial Linux distribution
 ### Astra Linux Common Edition
 
-HCL Domino 11.0.1 {: .label .label-green }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
 
 Free Linux distribution, customers have successfully installed Domino. 
 

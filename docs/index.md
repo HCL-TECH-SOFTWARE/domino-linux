@@ -78,7 +78,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
     </tr>
     <tr>
       <td><a href="linux/opensuse">OpenSUSE</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>

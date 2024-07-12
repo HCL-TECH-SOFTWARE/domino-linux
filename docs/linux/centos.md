@@ -71,9 +71,12 @@ has_children: false
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 ### CentOS Stream 9
 
-HCL Domino 14.0 {: .label .label-green } 
-HCL Domino 12.0.x {: .label .label-green } 
-HCL Domino 11.0.1 {: .label .label-green }
+HCL Domino 14.0 
+{: .label .label-green } 
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
 
 ### CentOS 8
 

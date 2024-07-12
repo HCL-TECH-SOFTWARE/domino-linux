@@ -47,8 +47,8 @@ HCL Domino 14 requires glibc to be provided in a specific version which SUSE Lin
     </tr>
  <tr>
       <td><a href="#opensuse-leap-15)">OpenSUSE Leap 15</a></td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>

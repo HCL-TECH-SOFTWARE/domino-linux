@@ -58,6 +58,9 @@ This linux distribution is a rolling release. Compatibility with HCL Domino is n
 
 ### Fedora 39
 
+{: .attention }
+Is a rolling Linux distribution, statements about compatibility with HCL Domino may be outdated by the time reading this text.
+Please be extra careful with information provided here in this chapter, even if someone reported HCL Domino to be running on this Linux distro, it may break all of a sudden.
 
 ## References
 
