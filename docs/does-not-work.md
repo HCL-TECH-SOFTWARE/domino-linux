@@ -31,3 +31,13 @@ There are several AHA ideas out there - please vote for them if you want HCL Dom
 
 ### How about Emulators?
 We have tested running the x86 version of Domino on ARM CPU's in compatibility mode. While it is somewhat possible, e.g. in a docker container, it is not fun to work with as performance is 10x slower.
+
+## Mainframe / zLinux / zOS
+HCL Domino is not compiled for Mainframe CPUs and will NOT work on the following 
+* OS/390 - although older versions of Domino used to support z/OS, see this [IBM Redbook](https://www.redbooks.ibm.com/abstracts/sg245984.html)
+* IBM zLinux
+* IBM LinuxOne
+* [IBM Telum](https://en.wikipedia.org/wiki/IBM_Telum)
+
+Please vote this idea if you want HCL Domino to be supporting Mainframes
+* [Support for Domino on z/OS / zLinux ](https://domino-ideas.hcltechsw.com/ideas/DOMINO-I-325)
