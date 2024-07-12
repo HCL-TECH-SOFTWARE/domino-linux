@@ -31,9 +31,6 @@ has_children: false
 | Read more       | [Wikipedia: openSUSE](https://en.wikipedia.org/wiki/OpenSUSE) |
 
 
-{: .warning }
-HCL Domino 14 requires glibc to be provided in a specific version which SUSE Linux does not provide (yet)
-
 ## Overview
 
 <table>
@@ -67,7 +64,8 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 
 HCL Domino 14.0
 {: .label .label-red }
-
+HCL Domino 12.0.x
+{: .label .label-green }
 ### OpenSUSE Tumbleweed
 
 {: .attention }

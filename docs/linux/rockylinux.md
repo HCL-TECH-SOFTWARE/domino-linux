@@ -45,10 +45,16 @@ What you need to know about running HCL Domino on Rocky Linux
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="#rhel-9">Rocky Linux 9</a></td>
+      <td><a href="#rocky-linux-9">Rocky Linux 9</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+    <tr>
+      <td><a href="#rocky-linux-9">Rocky Linux 8</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
   </tbody>
 </table>
@@ -60,10 +66,22 @@ Which versions of this Linux distribution exists in the market and what Domino v
 
 HCL Domino 14.0
 {: .label .label-green }
+HCL Domino 12.0.x
+{: .label .label-green }
 
 Item | Compatibility
 ---| ---
 Linux StartScript | Yes/No/Tested/Certified
+
+
+## Rocky Linux 8
+
+HCL Domino 14.0
+{: .label .label-red }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.x
+{: .label .label-green }
 
 ## References
 

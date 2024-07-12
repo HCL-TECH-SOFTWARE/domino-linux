@@ -42,9 +42,9 @@ has_children: false
     </tr>
     <tr>
       <td><a href="#photon-os-5-0">Amazon Linux 2023</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
   </tbody>
 </table>

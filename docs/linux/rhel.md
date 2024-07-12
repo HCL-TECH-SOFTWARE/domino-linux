@@ -62,6 +62,10 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 
 HCL Domino 14.0
 {: .label .label-green }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
 
 Works fine. [Standard installation methods](../installation.md) apply.
 
