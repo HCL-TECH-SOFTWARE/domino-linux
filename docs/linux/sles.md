@@ -45,7 +45,7 @@ has_children: false
     </tr>
  <tr>
       <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP6</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#FFD147;text-align:center;" >Maybe</td>
     </tr> <tr>

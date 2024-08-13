@@ -42,7 +42,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
     </tr>
     <tr>
       <td><a href="linux/sles">SUSE Linux (SLES)</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
