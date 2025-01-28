@@ -41,7 +41,7 @@ sudo su
 
 {% include yewtube.html id="fW1iPlcoDSo" %}
 
-* [Install Domino Server on Linux Environment](https://yewtu.be/watch?v=fW1iPlcoDSo)
+* [Install Domino Server on Linux Environment](https://youtube.com/watch?v=fW1iPlcoDSo)
 * For more information, see [online help](https://help.hcltechsw.com/domino/14.0.0/admin/inst_installingdominoonunixsystems_t.html)
 
 
