@@ -71,7 +71,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/centos">CentOS / CentOS Stream </a></td>
+      <td><a href="linux/centos">CentOS </a></td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#9EFF9E;text-align:center;" >Stream 9</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -196,6 +196,7 @@ Overview of HCL Domino dependencies
 
 Domino Version | Kernel Version | min.glibc Version | min stdc++ Version | Remarks
 ------| :---: | :---: | :---:
+HCL Domino 14.5 Early Access | 5.14 | 2.34-28 | 11.2.1 | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0108740)
 HCL Domino 14.0.x | 5.14 | 2.34-28 | 11.2.1 | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0108740)
 HCL Domino 12.0.2 | 5.14 , 4.18 , 3.10.0-693 , 5.3.18 | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0101447)
 HCL Domino 11.0.x | ? | ? | ? | see [System Requirements](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0102974)

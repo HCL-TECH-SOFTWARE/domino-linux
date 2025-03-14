@@ -43,7 +43,7 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td>Arch Libux</td>
+      <td>Arch Linux</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
@@ -56,6 +56,10 @@ has_children: false
 
 ### ArchLinux 
 
+This Linux distribution is a rolling release which updates dependencies at any time.
+So even if HCL Domino would be running today, a small update of the OS can break it at any time.
+
+We are not recommending to use ArchLinux for HCL Domino.
 
 ## References
 
