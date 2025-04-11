@@ -119,15 +119,6 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
-    <tr>
-      <td>[Wolfi OS](https://github.com/wolfi-dev/)</td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-      <td style="background:#FFC7C7;text-align:center;" >No</td>
-    </tr>
-
-
   </tbody>
 </table>
 
@@ -164,6 +155,13 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wolfi-dev/">Wolfi OS</a>)</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
     </tr>
   </tbody>
 </table>
