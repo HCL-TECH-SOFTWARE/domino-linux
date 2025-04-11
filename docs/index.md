@@ -73,7 +73,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
     <tr>
       <td><a href="linux/centos">CentOS </a></td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#9EFF9E;text-align:center;" >Stream 9</td>
+      <td style="background:#9EFF9E;text-align:center;" >Stream 10</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
@@ -119,6 +119,15 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
+    <tr>
+      <td>[Wolfi OS](https://github.com/wolfi-dev/)</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+    </tr>
+
+
   </tbody>
 </table>
 

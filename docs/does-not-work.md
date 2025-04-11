@@ -42,3 +42,9 @@ HCL Domino is not compiled for Mainframe CPUs and will NOT work on the following
 
 Please vote this idea if you want HCL Domino to be supporting Mainframes
 * [Support for Domino on z/OS / zLinux ](https://domino-ideas.hcltechsw.com/ideas/DOMINO-I-325)
+
+## Special Linux distributions
+
+The following Linux distributions have been tested but will NOT work with Domino.
+
+* [Wolfi OS](https://github.com/wolfi-dev/)
