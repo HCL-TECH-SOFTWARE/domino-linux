@@ -73,6 +73,11 @@ HCL Domino 12.0.x
 HCL Domino 11.0.1
 {: .label .label-green }
 
+RHEL 10 has been released after Domino 14.0 shipped, so it has not (yet) been undergoing the certification tests at HCL, however, customers have reported it to work fine.
+
+[Standard installation methods](../installation.md) apply.
+
+
 ### RHEL 9
 
 HCL Domino 14.0
