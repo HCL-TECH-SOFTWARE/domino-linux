@@ -41,6 +41,12 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
+      <td><a href="#rhel-10">Redhat Enterprise Linux 10</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+    </tr>
+    <tr>
       <td><a href="#rhel-9">Redhat Enterprise Linux 9</a></td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -57,6 +63,15 @@ has_children: false
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+### RHEL 10
+
+HCL Domino 14.0
+{: .label .label-green }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
 
 ### RHEL 9
 
