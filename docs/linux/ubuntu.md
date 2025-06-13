@@ -71,15 +71,6 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 
 ### Ubuntu 25.10 (Oracular Oriole)
 
-HCL Domino 14.5
-{: .label .label-grey }
-HCL Domino 14.0
-{: .label .label-grey }
-HCL Domino 12.0.x
-{: .label .label-grey }
-HCL Domino 11.0.1
-{: .label .label-grey }
-
 Although customers have reported that Domino runs just fine on this release, we recommend using LTS versions of Ubuntu.
 
 ### Ubuntu 24.04 LTS (Noble Numbat)

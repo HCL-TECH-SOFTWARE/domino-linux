@@ -150,6 +150,13 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
+      <td><a href="https://www.kali.org/">Kali Linux</a></td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+    </tr>
+    <tr>
       <td><a href="linux/opensuse#opensuse-tubleweed">OpenSUSE Tumbleweed</a></td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
@@ -162,13 +169,6 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.kali.org/">Kali Linux</a></td>
-      <td style="background:#FFD147;text-align:center;" >Experimental</td>
-      <td style="background:#FFD147;text-align:center;" >Experimental</td>
-      <td style="background:#FFD147;text-align:center;" >Experimental</td>
-      <td style="background:#FFD147;text-align:center;" >Experimental</td>
     </tr>
   </tbody>
 </table>
@@ -225,6 +225,7 @@ HCL Domino 9.0.1 FP10 | ? | ? | ? | see [System Requirements](https://support.hc
 
 ## Articles
 
+* [What Is the Best Linux Distribution for HCL Domino?](https://blog.nashcom.de/nashcomblog.nsf/dx/what-is-the-best-linux-distribution-for-hcl-domino.htm)
 * [Picking the right Linux Distribution](https://blog.nashcom.de/nashcomblog.nsf/dx/picking-the-right-linux-distribution.htm)
 * [Taking a closer look at Linux distributions for NGINX, Curl and OpenSSL for Domino](https://blog.nashcom.de/nashcomblog.nsf/dx/taking-a-closer-look-at-linux-distributions-for-nginx-curl-and-openssl-for-domino-.htm)
 * [ARM CPU platform -- Where can it be relevant today for you?](https://blog.nashcom.de/nashcomblog.nsf/dx/arm-cpu-platform-where-can-it-be-relevant-today-for-you.htm)
