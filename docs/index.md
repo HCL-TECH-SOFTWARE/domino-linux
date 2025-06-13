@@ -51,14 +51,14 @@ Please note, only distributions declared as "Certified" are tested by HCL.
     </tr>
     <tr>
       <td><a href="linux/amazonlinux">Amazon Linux</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="linux/almalinux">Alma Linux</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -71,50 +71,50 @@ Please note, only distributions declared as "Certified" are tested by HCL.
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
-      <td><a href="linux/centos">CentOS </a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#9EFF9E;text-align:center;" >Stream 10</td>
+      <td><a href="linux/centos">CentOS Stream</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="linux/debian">Debian</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="linux/opensuse">OpenSUSE</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="linux/oracle">Oracle Linux</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="linux/rockylinux">Rocky Linux</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="linux/ubuntu">Ubuntu</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="linux/photon">VMware Photon OS 5.0</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -130,17 +130,17 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5 Early Access</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
     <tr>
       <td><a href="linux/archlinux">Arch Linux</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Highly Experimental</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
     </tr>
     <tr>
       <td><a href="linux/fedora">Fedora</a></td>
@@ -162,6 +162,13 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.kali.org/">Kali Linux</a></td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
     </tr>
   </tbody>
 </table>
