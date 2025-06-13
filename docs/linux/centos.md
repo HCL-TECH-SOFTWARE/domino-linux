@@ -69,13 +69,6 @@ has_children: false
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
-    <tr>
-      <td><a href="#centos-6">CentOS 6</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-    </tr>
   </tbody>
 </table>
 
@@ -102,10 +95,26 @@ HCL Domino 11.0.1
 
 ### CentOS 8
 
+HCL Domino 14.5 
+{: .label .label-red } 
+HCL Domino 14.0 
+{: .label .label-red } 
 HCL Domino 12.0.x
 {: .label .label-green }
 HCL Domino 11.0.1
 {: .label .label-green }
+
+### CentOS 7
+
+HCL Domino 14.5 
+{: .label .label-red } 
+HCL Domino 14.0 
+{: .label .label-red } 
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
+
 
 ### CentOS 6
 
