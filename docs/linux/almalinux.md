@@ -38,12 +38,21 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
     <tr>
+      <td><a href="#almalinux-10.x">Alma Linux 10</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+    <tr>
       <td><a href="#almalinux-9.x">Alma Linux 9</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
@@ -53,6 +62,15 @@ has_children: false
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+### AlmaLinux 10.x
+
+HCL Domino 14.5
+{: .label .label-green }
+HCL Domino 14.0
+{: .label .label-green }
+HCL Domino 12.0.x
+{: .label .label-green }
 
 ### AlmaLinux 9.x
 Kernel: 5.14

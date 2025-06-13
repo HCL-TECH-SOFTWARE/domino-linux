@@ -39,6 +39,7 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
@@ -46,16 +47,19 @@ has_children: false
  <tr>
       <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP6</a></td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#FFD147;text-align:center;" >Maybe</td>
     </tr> <tr>
       <td><a href="#suse-linux-enterprise-15-sp3">SUSE Linux (SLES) 15 SP3</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
     </tr>
     <tr>
       <td><a href="#suse-linux-enterprise-12">SUSE Linux (SLES) 12.x</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>

@@ -40,12 +40,21 @@ This linux distribution is a rolling release. Compatibility with HCL Domino is n
   <tbody>
     <tr>
       <th>Linux Distribution</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
     <tr>
+      <td><a href="#astra-linux">Fedora 42</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+    <tr>
       <td><a href="#astra-linux">Fedora 39</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
@@ -55,6 +64,13 @@ This linux distribution is a rolling release. Compatibility with HCL Domino is n
 
 
 ## Versions
+
+
+### Fedora 42
+{: .attention }
+
+Is a rolling Linux distribution, statements about compatibility with HCL Domino may be outdated by the time reading this text.
+Please be extra careful with information provided here in this chapter, even if someone reported HCL Domino to be running on this Linux distro, it may break all of a sudden.
 
 ### Fedora 39
 

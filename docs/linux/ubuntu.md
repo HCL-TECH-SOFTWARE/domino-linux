@@ -37,6 +37,7 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
@@ -45,10 +46,12 @@ has_children: false
       <td><a href="#ubuntu-2404-lts-noble-numbat">Ubuntu 24.04 (Noble Numbat)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
       <td><a href="#ubuntu-2204-lts-jammy-jellyfish">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>

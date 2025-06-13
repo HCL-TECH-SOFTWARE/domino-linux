@@ -37,6 +37,7 @@ has_children: false
     <tr>
       <th>Linux Distribution</th>
       <th>Domino 14</th>
+      <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
@@ -45,15 +46,18 @@ has_children: false
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="#rhel-9">Redhat Enterprise Linux 9</a></td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>
     <tr>
       <td><a href="#rhel-8">Redhat Enterprise Linux 8</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
@@ -66,6 +70,8 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 
 ### RHEL 10
 
+HCL Domino 14.5
+{: .label .label-green }
 HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.x
@@ -77,9 +83,9 @@ RHEL 10 has been released after Domino 14.0 shipped, so it has not (yet) been un
 
 [Standard installation methods](../installation.md) apply.
 
-
 ### RHEL 9
-
+HCL Domino 14.5
+{: .label .label-green }
 HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.x
@@ -90,7 +96,8 @@ HCL Domino 11.0.1
 Works fine. [Standard installation methods](../installation.md) apply.
 
 ### RHEL 8
-
+HCL Domino 14.5
+{: .label .label-red }
 HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.x
@@ -101,6 +108,8 @@ HCL Domino 11.0.1
 Please note the end of support statement from Red Hat:
 * [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata#Extended_Life_Cycle_Phase)
 
+This version of RHEL does not provide the required kernel version for Domino 14.0 and higher to work.
+
 ### RHEL 7
 
 {: .warning }
@@ -108,6 +117,8 @@ RHEL 7 has reached its end of mainstream support / end of marketing and should n
 
 for RHEL 7.4+ :
 
+HCL Domino 14.5
+{: .label .label-red }
 HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.x
@@ -115,14 +126,22 @@ HCL Domino 12.0.x
 HCL Domino 11.0.1
 {: .label .label-green }
 
+This version of RHEL does not provide the required kernel version for Domino 14.0 and higher to work.
+
 ### RHEL 6
 {: .warning }
 RHEL 7 has reached its end of life and end of extended support on 30. June 2024 and should not be used any longer. 
 
+HCL Domino 14.5
+{: .label .label-red }
 HCL Domino 14.0
 {: .label .label-red }
+HCL Domino 12.0.x
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-green }
 
-
+This version of RHEL does not provide the required kernel version for Domino 14.0 and higher to work.
 ## References
 
 * [Red Hat Linux for up to 16 machines](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)

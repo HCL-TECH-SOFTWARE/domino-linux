@@ -30,7 +30,7 @@ Please note, only distributions declared as "Certified" are tested by HCL.
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5 Early Access</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>

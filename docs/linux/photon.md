@@ -40,12 +40,14 @@ Special Linux distribution for Container Hosts
   <tbody>
     <tr>
       <th>Linux Distribution</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
     <tr>
       <td><a href="#photon-os-5-0">Photon OS 5.0</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>

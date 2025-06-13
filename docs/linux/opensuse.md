@@ -38,6 +38,7 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
@@ -46,10 +47,12 @@ has_children: false
       <td><a href="#opensuse-leap-15)">OpenSUSE Leap 15</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
       <td><a href="#opensuse-tumbleweed">OpenSUSE Tumbleweed 12.x</a></td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>

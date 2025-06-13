@@ -37,12 +37,14 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
     <tr>
       <td><a href="#oracle-linux-9">Oracle Linux 9</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
@@ -54,6 +56,8 @@ has_children: false
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 ### Oracle Linux 9
 
+HCL Domino 14.5
+{: .label .label-green }
 HCL Domino 14.0
 {: .label .label-green }
 
