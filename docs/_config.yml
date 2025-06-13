@@ -98,7 +98,7 @@ next_page: true
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2023 HCLSoftware. Distributed as <a href=\"https://https://github.com/HCL-TECH-SOFTWARE/domino-linux/license\">Apache 2.0 license.</a>"
+footer_content: "Copyright &copy; 2025 HCLSoftware. Distributed as <a href=\"https://https://github.com/HCL-TECH-SOFTWARE/domino-linux/license\">Apache 2.0 license.</a>"
 
 # Footer last edited timestamp
 # last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

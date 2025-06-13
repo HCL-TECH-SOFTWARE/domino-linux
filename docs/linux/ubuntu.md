@@ -43,7 +43,14 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="#ubuntu-2404-lts-noble-numbat">Ubuntu 24.04 (Noble Numbat)</a></td>
+      <td><a href="#ubuntu-2510-oracular-oriole">Ubuntu 25.10 (Oracular Oriole)</a></td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+    <tr>
+      <td><a href="#ubuntu-2404-lts-noble-numbat">Ubuntu 24.04 LTS (Noble Numbat)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -62,8 +69,23 @@ has_children: false
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
+### Ubuntu 25.10 (Oracular Oriole)
+
+HCL Domino 14.5
+{: .label .label-grey }
+HCL Domino 14.0
+{: .label .label-grey }
+HCL Domino 12.0.x
+{: .label .label-grey }
+HCL Domino 11.0.1
+{: .label .label-grey }
+
+Although customers have reported that Domino runs just fine on this release, we recommend using LTS versions of Ubuntu.
+
 ### Ubuntu 24.04 LTS (Noble Numbat)
 
+HCL Domino 14.5
+{: .label .label-green }
 HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.x
@@ -71,10 +93,12 @@ HCL Domino 12.0.x
 HCL Domino 11.0.1
 {: .label .label-grey }
 
-Customers have reported that Domino runs just fine
+Customers have reported that Domino runs just fine.
 
 ### Ubuntu 22.04 LTS (Jammy Jellyfish)
 
+HCL Domino 14.5
+{: .label .label-green }
 HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.x

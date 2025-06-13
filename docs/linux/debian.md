@@ -70,6 +70,8 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 
 ### Debian 12 Bookworm
 
+HCL Domino 14.5
+{: .label .label-green }
 HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.x
@@ -79,6 +81,8 @@ HCL Domino 11.0.1
 
 ### Debian 11 Bullseye
 
+HCL Domino 14.5
+{: .label .label-red }
 HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.x
@@ -90,6 +94,8 @@ Kernel version does not allow to run HCL Domino 14
 
 ### Debian 10 Buster
 
+HCL Domino 14.5
+{: .label .label-red }
 HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.x

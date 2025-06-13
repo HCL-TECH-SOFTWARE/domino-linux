@@ -70,6 +70,9 @@ has_children: false
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 ### SUSE Linux Enterprise 15 SP6
+
+HCL Domino 14.5
+{: .label .label-green }
 HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.2
@@ -84,6 +87,8 @@ For Domino 11.0.1 no information exist
 
 ### SUSE Linux Enterprise 15 SP3
 
+HCL Domino 14.5
+{: .label .label-red }
 HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.2
@@ -98,6 +103,8 @@ Domino 12.0.2 and 11.0.1 are certified on SLES 15 SP3 (with kernel 5.3) for deta
 
 ### SUSE Linux Enterprise 12
 
+HCL Domino 14.5
+{: .label .label-red }
 HCL Domino 14.0
 {: .label .label-red }
 HCL Domino 12.0.2
