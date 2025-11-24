@@ -88,6 +88,9 @@ HCL Domino 12.0.2
 HCL Domino 11.0.1
 {: .label .label-yellow }
 
+{: .warning }
+SUSE Enterprise 16 has not been tested by HCL yet. This normally happens with the next fixpacks and major release.
+
 * [SUSE Linux Enterprise Server 16 - What's New](https://www.suse.com/c/what-is-new-in-suse-linux-enterprise-server-16-0/)
 
 
