@@ -44,7 +44,14 @@ has_children: false
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
- <tr>
+    <tr>
+      <td><a href="#suse-linux-enterprise-16">SUSE Linux (SLES) 16</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#FFD147;text-align:center;" >Maybe</td>
+      <td style="background:#FFD147;text-align:center;" >Maybe</td>
+      <td style="background:#FFD147;text-align:center;" >Maybe</td>
+    </tr>
+    <tr>
       <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP6</a></td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#00FF00;text-align:center;" >Certified</td>
@@ -69,6 +76,21 @@ has_children: false
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+### SUSE Linux Enterprise 16
+
+HCL Domino 14.5
+{: .label .label-green }
+HCL Domino 14.0
+{: .label .label-green }
+HCL Domino 12.0.2
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-yellow }
+
+* [SUSE Linux Enterprise Server 16 - What's New](https://www.suse.com/c/what-is-new-in-suse-linux-enterprise-server-16-0/)
+
+
 ### SUSE Linux Enterprise 15 SP6
 
 HCL Domino 14.5
