@@ -57,6 +57,13 @@ has_children: false
       <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#FFD147;text-align:center;" >Maybe</td>
+    </tr>
+    <tr>
+      <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP7</a></td>
+      <td style="background:#00FF00;text-align:center;" >Yes</td>
+      <td style="background:#00FF00;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#FFD147;text-align:center;" >Maybe</td>
     </tr> <tr>
       <td><a href="#suse-linux-enterprise-15-sp3">SUSE Linux (SLES) 15 SP3</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
