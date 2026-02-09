@@ -52,16 +52,16 @@ has_children: false
       <td style="background:#FFD147;text-align:center;" >Maybe</td>
     </tr>
     <tr>
-      <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP6</a></td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
-      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td><a href="#suse-linux-enterprise-15-sp7">SUSE Linux (SLES) 15 SP7</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#FFD147;text-align:center;" >Maybe</td>
     </tr>
     <tr>
-      <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP7</a></td>
-      <td style="background:#00FF00;text-align:center;" >Yes</td>
-      <td style="background:#00FF00;text-align:center;" >Yes</td>
+      <td><a href="#suse-linux-enterprise-15-sp6">SUSE Linux (SLES) 15 SP6</a></td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#FFD147;text-align:center;" >Maybe</td>
     </tr> <tr>
@@ -95,10 +95,25 @@ HCL Domino 12.0.2
 HCL Domino 11.0.1
 {: .label .label-yellow }
 
-{: .warning }
-SUSE Enterprise 16 has not been tested by HCL yet. This normally happens with the next fixpacks and major release.
-
 * [SUSE Linux Enterprise Server 16 - What's New](https://www.suse.com/c/what-is-new-in-suse-linux-enterprise-server-16-0/)
+
+
+### SUSE Linux Enterprise 15 SP7
+
+HCL Domino 14.5
+{: .label .label-green }
+HCL Domino 14.0
+{: .label .label-green }
+HCL Domino 12.0.2
+{: .label .label-green }
+HCL Domino 11.0.1
+{: .label .label-yellow }
+
+Customers have reported Domino 14.5, 14.0 and 12.0.2 to run on SLES 15 SP7, but HCL has not certified this version yet.
+For Domino 11.0.1 no information exist
+
+* [SUSE Linux Enterprise Server 15 SP7 Release Notes](https://documentation.suse.com/en-us/sles/15-SP7/)
+
 
 
 ### SUSE Linux Enterprise 15 SP6
@@ -112,7 +127,8 @@ HCL Domino 12.0.2
 HCL Domino 11.0.1
 {: .label .label-yellow }
 
-Customers have reported Domino 14 + 12.0.2 to run on SLES 15 SP6, but HCL has not certified this version yet.
+Domino 14.5 has been certified to run on SLES 16 SP6.
+Furthermore customers have reported Domino 14 + 12.0.2 to run on SLES 15 SP6, but HCL has not certified this version yet.
 For Domino 11.0.1 no information exist
 
 * [SUSE Linux Enterprise Server 15 SP6 Release Notes](https://documentation.suse.com/en-us/sles/15-SP6/)
