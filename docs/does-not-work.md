@@ -19,11 +19,15 @@ Lessons learned on what will NOT work.
 </details>
 
 ## ARM CPU
-HCL Domino is not compiled for ARM CPU's and will not work on the following hardware
+
+{: .highlight }
+HCL has shown working prototype of Domino 14.5.1 running on a [Raspberry Pi](linux/rasperrypi) with an ARM CPU at [Engage 2026](https://www.engage.ug)
+
+Officially published versions of HCL Domino are not compiled for ARM CPU's and will not work on the following hardware
 * Raspberry Pi
 * Intel Atom CPU's
 * Amazon EC2 Graviton
-* Apple Silicon (M1/M2/M3/M4 CPU's)
+* Apple Silicon (M1/M2/M3/M4/M5 CPU's)
 
 There are several AHA ideas out there - please vote for them if you want HCL Domino to be supporting ARM CPU's 
 * [ARM version of Domino Server on Linux ](https://domino-ideas.hcltechsw.com/ideas/DOMINO-I-2285)
