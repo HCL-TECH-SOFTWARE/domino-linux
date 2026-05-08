@@ -2,7 +2,7 @@
 layout: default
 title: "Ubuntu Linux"
 parent: "Home"
-nav_order: 13
+nav_order: 14
 description: "Ubuntu Linux"
 has_children: false
 ---
@@ -43,9 +43,9 @@ has_children: false
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="#ubuntu-2510-oracular-oriole">Ubuntu 25.10 (Oracular Oriole)</a></td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td><a href="#ubuntu-2604-resolut-raccoon">Ubuntu 26.04 LTS (Resolute Raccoon)</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
@@ -57,7 +57,7 @@ has_children: false
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
-      <td><a href="#ubuntu-2204-lts-jammy-jellyfish">Ubuntu 22.04 (Jammy Jellyfish)</a></td>
+      <td><a href="#ubuntu-2204-lts-jammy-jellyfish">Ubuntu 22.04 LTS (Jammy Jellyfish)</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -69,9 +69,14 @@ has_children: false
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
+### Ubuntu 26.04 LTS (Resolute Racoon)
+
+see details on Danie's Blog:
+* [Ubuntu 26.04 LTS released with a last minute surprise -- Kernel 7.0](https://blog.nashcom.de/nashcomblog.nsf/dx/ubuntu-26.04-lts-released-with-a-last-minute-surprise-kernel-7.0.htm)
+
 ### Ubuntu 25.10 (Oracular Oriole)
 
-Although customers have reported that Domino runs just fine on this release, we recommend using LTS versions of Ubuntu.
+Although customers have reported that Domino runs just fine on this release, we recommend using an LTS version of Ubuntu.
 
 ### Ubuntu 24.04 LTS (Noble Numbat)
 

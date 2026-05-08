@@ -2,7 +2,7 @@
 layout: default
 title: "Rocky Linux"
 parent: "Home"
-nav_order: 11
+nav_order: 12
 description: "Rocky Linux"
 has_children: false
 ---
@@ -29,7 +29,7 @@ What you need to know about running HCL Domino on Rocky Linux
 | Package Manager |   |
 | Filesystem      |    |
 | Based on        | RedHat Enterprise Linux   |
-| Support         |  |
+| Support         | [Community Support](https://wiki.rockylinux.org/rocky/support/)|
 | Read more       | [Wikipedia](https://de.wikipedia.org/wiki/Rocky_Linux) |
 | Download        | [from RockyLinux.org](https://rockylinux.org/download)  |
 
@@ -40,7 +40,7 @@ What you need to know about running HCL Domino on Rocky Linux
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
@@ -89,10 +89,6 @@ HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.x
 {: .label .label-green }
-
-Item | Compatibility
----| ---
-Linux StartScript | Yes/No/Tested/Certified
 
 
 ## Rocky Linux 8

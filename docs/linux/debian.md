@@ -25,8 +25,7 @@ has_children: false
 | License         | Free Open Source, DFSG |
 | Package Manager | apt |
 | Filesystem      |    |
-| Based on        |    |
-| Support         |    |
+| Support         | [Debug Linux Support](https://www.debian.org/support) |
 | Read more       | [Wikipedia: Debian](https://en.wikipedia.org/wiki/Debian) |
 
 ## Overview
@@ -36,15 +35,22 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
     <tr>
+      <td><a href="#debian-13-trixie">Debian 13 (brixie)</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+    </tr>
+    <tr>
       <td><a href="#debian-12-bookworm">Debian 12 (bookworm)</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
-      <td style="background:#9EFF9E;text-align:center;" >Kernel 6.x</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
     </tr>

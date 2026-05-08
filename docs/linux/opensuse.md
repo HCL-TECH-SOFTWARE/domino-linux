@@ -38,12 +38,19 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
- <tr>
+    <tr>
+      <td><a href="#opensuse-leap-16)">OpenSUSE Leap 16</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#FFD147;text-align:center;" >Maybe</td>
+      <td style="background:#FFD147;text-align:center;" >Maybe</td>
+      <td style="background:#FFD147;text-align:center;" >Maybe</td>
+    </tr>
+    <tr>
       <td><a href="#opensuse-leap-15)">OpenSUSE Leap 15</a></td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -62,6 +69,15 @@ has_children: false
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+### OpenSUSE Leap 16
+
+HCL Domino 14.5
+{: .label .label-green }
+HCL Domino 14.0
+{: .label .label-yellow }
+HCL Domino 12.0.x
+{: .label .label-yellow }
 
 ### OpenSUSE Leap 15
 

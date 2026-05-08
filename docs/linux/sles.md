@@ -2,7 +2,7 @@
 layout: default
 title: "SUSE Linux Enterprise Server"
 parent: "Home"
-nav_order: 12
+nav_order: 13
 description: "SUSE Linux Enterprise Server"
 has_children: false
 ---
@@ -26,8 +26,6 @@ has_children: false
 | License         |  GPL |
 | Package Manager | zypper |
 | Filesystem      | [brtfs](../filesystems.md#btrfs), ZFS |
-| Based on        |    |
-| Support         |    |
 | Read more       | [Wikipedia: SUSE Linux](https://en.wikipedia.org/wiki/SUSE_Linux) |
 | Download        | [Evaluation Copy](https://www.suse.com/download/sles/) |
 
@@ -39,7 +37,7 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>

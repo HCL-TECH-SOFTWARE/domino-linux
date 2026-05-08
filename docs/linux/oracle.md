@@ -23,11 +23,10 @@ has_children: false
 
 | --- | --- |
 | Certified by HCL | No |
-| License         | GNU General Public License   |
+| License         | GNU General Public License |
 | Package Manager | yum |
-| Filesystem      |    |
 | Based on        | [Red Hat](rhel.md)  |
-| Support         |   |
+| Support         | [Support options](https://www.oracle.com/linux/support/)  |
 | Read more       | [Wikipedia: Oracle Linux](https://en.wikipedia.org/wiki/Oracle_Linux) |
 
 ## Compatibility
@@ -37,10 +36,17 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
+    </tr>
+    <tr>
+      <td><a href="#oracle-linux-10">Oracle Linux 10</a></td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
       <td><a href="#oracle-linux-9">Oracle Linux 9</a></td>
@@ -54,6 +60,14 @@ has_children: false
 
 ## Versions
 Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
+
+### Oracle Linux 10
+
+HCL Domino 14.5
+{: .label .label-green }
+HCL Domino 14.0
+{: .label .label-green }
+
 ### Oracle Linux 9
 
 HCL Domino 14.5

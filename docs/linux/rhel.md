@@ -2,7 +2,7 @@
 layout: default
 title: "RedHat Enterprise Server"
 parent: "Home"
-nav_order: 10
+nav_order: 11
 description: "RedHat Enterprise Server"
 has_children: false
 ---
@@ -22,10 +22,9 @@ has_children: false
 
 | --- | --- |
 | Certified by HCL | Yes |
-| License         |    |
-| Package Manager | yum |
+| License         | Commercial |
+| Package Manager | dnf (yum) |
 | Filesystem      |    |
-| Based on        |    |
 | Support         | [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata#Extended_Life_Cycle_Phase) |
 | Read more       | [Wikipedia: RedHat Enterprise Linux](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux) |
 
@@ -36,14 +35,14 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
     <tr>
       <td><a href="#rhel-10">Redhat Enterprise Linux 10</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td style="background:#00FF00;text-align:center;" >Certified</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
       <td style="background:#9EFF9E;text-align:center;" >Yes</td>
@@ -78,6 +77,8 @@ HCL Domino 12.0.x
 {: .label .label-green }
 HCL Domino 11.0.1
 {: .label .label-green }
+
+Domino 14.5.1 has been tested by HCL and is certified to run on RHEL10, see [HCL Domino 14.5.1 System Requirements](https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0128491)
 
 RHEL 10 has been released after Domino 14.0 shipped, so it has not (yet) been undergoing the certification tests at HCL, however, customers have reported it to work fine.
 

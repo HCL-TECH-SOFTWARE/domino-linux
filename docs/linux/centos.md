@@ -25,7 +25,6 @@ has_children: false
 | License         | Free Open Source, GNU GPL |
 | Package Manager | yum |
 | Filesystem      |    |
-| Based on        |    |
 | Support         |    |
 | Read more       | [Wikipedia: CentOS](https://en.wikipedia.org/wiki/CentOS) |
 
@@ -36,7 +35,7 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>

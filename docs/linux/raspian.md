@@ -1,16 +1,13 @@
 ---
 layout: default
-title: "Photon"
+title: "Raspberry Pi OS"
 parent: "Home"
-nav_order: 9
-description: "VMware Photon OS"
+nav_order: 10
+description: "Raspberry Pi OS"
 has_children: false
 ---
-
-<h1>Photon OS</h1>
-[https://vmware.github.io/photon/](https://vmware.github.io/photon/)
-
-Special Linux distribution for Container Hosts
+<h1>Raspbery Pi OS</h1>
+[https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/)
 
 <details close markdown="block">
   <summary>
@@ -25,17 +22,16 @@ Special Linux distribution for Container Hosts
 
 | --- | --- |
 | Certified by HCL | No |
-| License         | Apache License, Version 2.0 |
-| Package Manager | yum |
-| Based on        | [Red Hat](rhel.md) |
-| Support         |   |
-| Read more       | [Wikipedia: Photon OS](https://de.wikipedia.org/wiki/Photon_OS) |
-| Download        | [from Github](https://github.com/vmware/photon/wiki/Downloading-Photon-OS)  |
+| License         | Free Open Source, DFSG |
+| Package Manager | apt |
+| Filesystem      |    |
+| Support         |  |
+| Read more       | [Wikipedia: Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS) |
 
-## Compatibility
+## Overview
 
 <table>
-  <caption>HCL Domino on Photon Linux Compatibility Matrix</caption>
+  <caption>HCL Domino compatibility with Debian</caption>
   <tbody>
     <tr>
       <th>Linux Distribution</th>
@@ -45,22 +41,25 @@ Special Linux distribution for Container Hosts
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="#photon-os-5-0">Photon OS 5.0</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
-      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
+      <td><a href="#raspberry-pi-os">Raspberry Pi OS</a></td>
+      <td style="background:#FFD147;text-align:center;" >Prototype</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
     </tr>
   </tbody>
 </table>
 
 ## Versions
+Which versions of this Linux distribution exists in the market and what HCL Domino version they are compatible with.
 
-### Photon OS 5.0
+### Raspberry Pi OS 
 
- Photon OS meets the system requirements for Linux outlined by HCL. Customers have reported that Domino runs fine on this operating system, however it has not been officially certified by HCL.
+HCL Domino 14.5.1
+{: .label .label-green }
 
-## References
+HCL has presented a first prototype of Domino running on ARM CPU. This machine was running Raspberry Pi OS.
+It has however not been released to production yet. If you are interested to run Domino on ARM CPU's please vote 
 
 ## Definition
 

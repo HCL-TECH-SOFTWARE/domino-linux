@@ -25,7 +25,6 @@ has_children: false
 | License         |    |
 | Package Manager | dnf / yum |
 | Filesystem      |    |
-| Based on        |    |
 | Support         |    |
 | Read more       | https://docs.aws.amazon.com/linux/al2023/ug/what-is-amazon-linux.html |
 
@@ -36,7 +35,7 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>

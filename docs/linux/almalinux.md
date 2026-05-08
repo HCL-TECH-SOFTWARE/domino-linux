@@ -38,7 +38,7 @@ has_children: false
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5</th>
+      <th>Domino 14.5.x</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
@@ -79,7 +79,6 @@ HCL Domino 14.0
 {: .label .label-green }
 HCL Domino 12.0.x
 {: .label .label-green }
-
 
 
 ## References
