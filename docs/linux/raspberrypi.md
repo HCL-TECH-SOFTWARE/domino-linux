@@ -56,10 +56,10 @@ Which versions of this Linux distribution exists in the market and what HCL Domi
 ### Raspberry Pi OS 
 
 HCL Domino 14.5.1
-{: .label .label-green }
+{: .label .label-yellow }
 
 HCL has presented a first prototype of Domino running on ARM CPU. This machine was running Raspberry Pi OS.
-It has however not been released to production yet. If you are interested to run Domino on ARM CPU's please vote 
+It has however not been released to production yet. If you are interested to run Domino on ARM CPU's please vote for this idea [ARM version of Domino Server on Linux](https://domino.ideas.hcl-software.com/ideas/DOMINO-I-2285)
 
 ## Definition
 
