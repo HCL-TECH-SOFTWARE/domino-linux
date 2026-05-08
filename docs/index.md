@@ -164,6 +164,13 @@ Linux distributions in this chapter are rolling releases, so any compatibility s
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
     <tr>
+      <td><a href="linux/raspberrypi">Raspberry Pi OS</a></td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+      <td style="background:#FFC7C7;text-align:center;" >No</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/wolfi-dev/">Wolfi OS</a></td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
       <td style="background:#FFC7C7;text-align:center;" >No</td>
