@@ -20,8 +20,10 @@ Lessons learned on what will NOT work.
 
 ## ARM CPU
 
-{: .highlight }
-HCL has shown working prototype of Domino 14.5.1 running on a [Raspberry Pi](linux/rasperrypi) with an ARM CPU at [Engage 2026](https://www.engage.ug)
+
+{: .update }
+> HCL has shown working prototype of Domino 14.5.1 running on a [Raspberry Pi](linux/rasperrypi)
+> with an ARM CPU at [Engage 2026](https://www.engage.ug)
 
 Officially published versions of HCL Domino are not compiled for ARM CPU's and will not work on the following hardware
 * Raspberry Pi
