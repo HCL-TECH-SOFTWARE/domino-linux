@@ -24,7 +24,7 @@ ___
 ## What's new in ...
 
 {: .update }
-Test for Update
+2026-05-08 - Repository updated for Mai 2026 
 
 {: .fix }
 test for a fix

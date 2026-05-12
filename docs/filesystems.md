@@ -23,7 +23,7 @@ Considerations for filesystems go here:
 Filesystem | Description | Pros | Cons
 --- | --- | --- | ---
 [XFS](#XFS) | tbd | tbd | tbd 
-[ext4](#ext4) | tbd | tbd | tbd 
+[Ext4](#ext4) | tbd | tbd | tbd 
 [btrfs](#btrfs) | tbd | tbd | tbd 
 [ZFS](#ZFS) | tbd | tbd | tbd 
 

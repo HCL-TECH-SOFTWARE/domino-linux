@@ -2,8 +2,17 @@ site_name: HCL Domino on Linux
 site_url: https://opensource.hcltechsw.com/domino-linux/
 nav:
     - Home:
-        - 'RedHat': 'rhel.md'
-        - 'SUSE' : 'suse.md'
+        - 'RedHat': 'linux/rhel.md'
+        - 'SUSE' : 'linux/suse.md'
+        - 'Alma Linux' : 'linux/almalinux.md'
+        - 'Amazon Linux' : 'linux/amazonlinux.md'
+        - 'Arch Linux' : 'linux/archlinux.md'
+        - 'Fedora' : 'linux/fedora.md'
+        - 'OpenSUSE' : 'linux/opensuse.md'
+        - 'Oracle Linux' : 'linux/oracle.md'
+        - 'Phton OS' : 'linux/photon.md'
+        - 'Rocky Linux' : 'linux/rocky.md'
+        - 'Ubuntu' : 'linux/ubuntu.md'
     - File Systems: 'filesystems.md'
     - About:
         - 'License': 'license.md'

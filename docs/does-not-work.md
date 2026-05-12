@@ -20,7 +20,6 @@ Lessons learned on what will NOT work.
 
 ## ARM CPU
 
-
 {: .update }
 > HCL has shown working prototype of Domino 14.5.1 running on a [Raspberry Pi](linux/rasperrypi)
 > with an ARM CPU at [Engage 2026](https://www.engage.ug)
@@ -48,6 +47,13 @@ HCL Domino is not compiled for Mainframe CPUs and will NOT work on the following
 
 Please vote this idea if you want HCL Domino to be supporting Mainframes
 * [Support for Domino on z/OS / zLinux ](https://domino-ideas.hcltechsw.com/ideas/DOMINO-I-325)
+
+## FreeBSD
+[FreeBSD](https://www.freebsd.org/) is a free and open-source Unix-like operating system, but it is NOT a Linux distribution.
+HCL Domino is not going to run on this operating system.
+
+Please vote this idea if you want HCL Domino to be supporting FreeBSD
+* Idea: [FreeBSD version of HCL Domino](https://hcl-software.aha.io/ideas/ideas/DOMINO-I-3200)
 
 ## Special Linux distributions
 
