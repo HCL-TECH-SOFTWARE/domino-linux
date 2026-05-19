@@ -2,7 +2,7 @@
 layout: default
 title: "Debian"
 parent: "Home"
-nav_order: 5
+nav_order: 7
 description: "Debian"
 has_children: false
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: "RedHat Enterprise Server"
 parent: "Home"
-nav_order: 11
+nav_order: 13
 description: "RedHat Enterprise Server"
 has_children: false
 ---

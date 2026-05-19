@@ -1,16 +1,14 @@
 ---
 layout: default
-title: "Photon"
+title: "Azure Linux"
 parent: "Home"
-nav_order: 11
-description: "VMware Photon OS"
+nav_order: 5
+description: "Azure Linux"
 has_children: false
 ---
 
-<h1>Photon OS</h1>
-[https://vmware.github.io/photon/](https://vmware.github.io/photon/)
-
-Special Linux distribution for Container Hosts
+<h1>Microsoft Azure Linux</h1>
+[https://github.com/microsoft/AzureLinux/](https://github.com/microsoft/AzureLinux)
 
 <details close markdown="block">
   <summary>
@@ -21,44 +19,56 @@ Special Linux distribution for Container Hosts
 {:toc}
 </details>
 
+{: .warning }
+This linux distribution is a fork of Fedora which is a rolling release. Compatibility with HCL Domino is not guarantueed.
+
+
 ## Overview
 
 | --- | --- |
 | Certified by HCL | No |
-| License         | Apache License, Version 2.0 |
+| License         | Free Open Source, MIT |
 | Package Manager | yum |
-| Based on        | [Red Hat](rhel.md) |
+| Filesystem      |    |
 | Support         |   |
-| Read more       | [Wikipedia: Photon OS](https://de.wikipedia.org/wiki/Photon_OS) |
-| Download        | [from Github](https://github.com/vmware/photon/wiki/Downloading-Photon-OS)  |
+| Read more       | [Github: Azure Linux](https://github.com/microsoft/AzureLinux) |
 
 ## Compatibility
 
 <table>
-  <caption>HCL Domino on Photon Linux Compatibility Matrix</caption>
+  <caption>HCL Domino compatibility with Azure Linux</caption>
   <tbody>
     <tr>
       <th>Linux Distribution</th>
-      <th>Domino 14.5.x</th>
+      <th>Domino 14.5</th>
       <th>Domino 14</th>
       <th>Domino 12</th>
       <th>Domino 11</th>
     </tr>
     <tr>
-      <td><a href="#photon-os-5-0">Photon OS 5.0</a></td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
-      <td style="background:#9EFF9E;text-align:center;" >Yes</td>
+      <td><a href="#azure-linux">Azure Linux (any)</a></td>
+      <td style="background:#FFD147;text-align:center;" >Experimental</td>
+      <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
       <td style="background:#C0C0C0;text-align:center;" >Unknown</td>
     </tr>
   </tbody>
 </table>
 
+
 ## Versions
 
-### Photon OS 5.0
+### Azure Linux
+{: .attention }
+> Is a rolling Linux distribution, statements about compatibility with HCL Domino may be outdated by the time reading this text.
+> Please be extra careful with information provided here in this chapter, even if someone reported HCL Domino to be running on this Linux distro, it may break all of a sudden.
 
- Photon OS meets the system requirements for Linux outlined by HCL. Customers have reported that Domino runs fine on this operating system, however it has not been officially certified by HCL.
+{: .warning }
+> By default, Azure Linux is missing essential tools (Shadow Utils) which will cause the Domino Installation script to fail when creating a user for the Domino server. It requires to manually install them.
+
+{: .warning }
+> Azure Linux does not provide gdb.minimal, so the normal gdb package needs to be installed manually.
+
 
 ## References
 

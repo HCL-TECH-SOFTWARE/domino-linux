@@ -2,7 +2,7 @@
 layout: default
 title: "Oracle Linux"
 parent: "Home"
-nav_order: 8
+nav_order: 10
 description: "Oracle Linux"
 has_children: false
 ---

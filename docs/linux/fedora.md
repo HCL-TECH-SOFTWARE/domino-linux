@@ -2,7 +2,7 @@
 layout: default
 title: "Fedora"
 parent: "Home"
-nav_order: 6
+nav_order: 8
 description: "Fedora"
 has_children: false
 ---

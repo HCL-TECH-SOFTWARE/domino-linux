@@ -2,7 +2,7 @@
 layout: default
 title: "Linux DISTRO NAME"
 parent: "Home"
-nav_order: 6
+nav_order: 99
 description: "Linux DISTRO NAME"
 has_children: false
 ---

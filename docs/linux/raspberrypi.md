@@ -2,7 +2,7 @@
 layout: default
 title: "Raspberry Pi OS"
 parent: "Home"
-nav_order: 10
+nav_order: 12
 description: "Raspberry Pi OS"
 has_children: false
 ---
